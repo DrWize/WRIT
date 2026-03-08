@@ -1,0 +1,3714 @@
+[
+  {
+    "word": "aberrant",
+    "pos": "adjective",
+    "definition": "Departing from an accepted standard or normal type; deviating from what is expected or usual.",
+    "origin": "Latin aberrantem, from aberrare 'to go astray', from ab- 'away' + errare 'to wander'",
+    "book": "Defiance of the Fall 7",
+    "lookups": 1
+  },
+  {
+    "word": "ablative",
+    "pos": "adjective/noun",
+    "definition": "(Grammar) Denoting a case expressing separation, direction away, or instrument. In surgery, relating to the surgical removal of tissue.",
+    "origin": "Latin ablativus, from ablatus 'taken away', from ab- 'from' + latus 'carried'",
+    "book": "Earth Force 2 (Relict Legacy)",
+    "lookups": 1
+  },
+  {
+    "word": "ablutions",
+    "pos": "noun",
+    "definition": "The act of washing oneself, especially as a religious ritual; the act of cleansing the body.",
+    "origin": "Latin ablutio, from abluere 'to wash away', from ab- 'away' + luere 'to wash'",
+    "book": "The Path of Ascension: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "abnegation",
+    "pos": "noun",
+    "definition": "The act of renouncing or rejecting something, especially a doctrine or belief; self-denial.",
+    "origin": "Latin abnegatio, from abnegare 'to refuse', from ab- 'away' + negare 'to deny'",
+    "book": "Devil in the Deep Blue Sea",
+    "lookups": 1
+  },
+  {
+    "word": "accoutrements",
+    "pos": "noun",
+    "definition": "Additional items of equipment or dress; accessories or trappings associated with a particular activity or style.",
+    "origin": "French accoutrement, from accoutrer 'to equip', of uncertain ultimate origin",
+    "book": "Dark Shores",
+    "lookups": 2
+  },
+  {
+    "word": "acerbic",
+    "pos": "adjective",
+    "definition": "(Especially of a comment or style) sharp and forthright; having a harsh or bitter quality.",
+    "origin": "Latin acerbus 'harsh, bitter', from acer 'sharp'",
+    "book": "The Player of Games",
+    "lookups": 1
+  },
+  {
+    "word": "acquiesce",
+    "pos": "verb",
+    "definition": "Accept something reluctantly but without protest; agree or comply tacitly.",
+    "origin": "Latin acquiescere, from ad- 'to' + quiescere 'to rest', from quies 'rest'",
+    "book": "Wind and Truth: Book Five of the Stormlight Archive (The Stormlight Archive, 5)",
+    "lookups": 1
+  },
+  {
+    "word": "adamance",
+    "pos": "noun",
+    "definition": "The quality of being resolute and unwilling to change one's opinion; unyielding firmness.",
+    "origin": "Greek adamas 'invincible', from a- 'not' + daman 'to tame'; related to diamond",
+    "book": "Defiance of the Fall 9: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "affront",
+    "pos": "noun/verb",
+    "definition": "An action or remark that causes offence; to offend the modesty or values of someone.",
+    "origin": "Old French affronter 'to slap in the face', from Latin ad frontem 'to the face'",
+    "book": "He Who Fights With Monsters 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "agog",
+    "pos": "adjective",
+    "definition": "Very eager or curious to hear or see something; in a state of excited anticipation.",
+    "origin": "Old French en gogues 'in a merry mood', of uncertain origin",
+    "book": "Voidknight Ascension 2: A LitRPG Apocalypse",
+    "lookups": 1
+  },
+  {
+    "word": "alacrity",
+    "pos": "noun",
+    "definition": "Brisk and cheerful readiness; promptness and eagerness in performing a task.",
+    "origin": "Latin alacritas, from alacer 'lively, eager'",
+    "book": "Beastborne: Exiled Lands: An Epic Portal Fantasy LitRPG Saga (Beastborne Chronicles, Book 2)",
+    "lookups": 3
+  },
+  {
+    "word": "albedo",
+    "pos": "noun",
+    "definition": "The proportion of incident light or radiation reflected by a surface, especially a celestial body.",
+    "origin": "Latin albedo 'whiteness', from albus 'white'",
+    "book": "For We Are Many (Bobiverse Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "amalgamation",
+    "pos": "noun",
+    "definition": "The action or process of combining or uniting to form a single entity; a merger.",
+    "origin": "Medieval Latin amalgama, possibly from Arabic al-malgham 'an emollient poultice'",
+    "book": "The Primal Hunter 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "amaranth",
+    "pos": "noun",
+    "definition": "A plant of the genus Amaranthus; a deep purplish-red colour; a flower said to be everlasting.",
+    "origin": "Greek amarantos 'unfading', from a- 'not' + marainein 'to wither'",
+    "book": "Witchshadow",
+    "lookups": 1
+  },
+  {
+    "word": "ameliorate",
+    "pos": "verb",
+    "definition": "To make something bad or unsatisfactory better; to improve a difficult situation.",
+    "origin": "Latin meliorare 'to improve', from melior 'better'",
+    "book": "The Pariah",
+    "lookups": 1
+  },
+  {
+    "word": "amniocentesis",
+    "pos": "noun",
+    "definition": "A procedure in which amniotic fluid is sampled from the uterus for prenatal diagnosis.",
+    "origin": "Greek amnion 'membrane around foetus' + kentesis 'pricking', from kentein 'to prick'",
+    "book": "Revolution Business",
+    "lookups": 1
+  },
+  {
+    "word": "amniotic",
+    "pos": "adjective",
+    "definition": "Relating to the amnion, the innermost membrane surrounding the embryo in reptiles, birds, and mammals.",
+    "origin": "Greek amnion 'membrane around foetus', diminutive of amnos 'lamb'",
+    "book": "Disquiet Gods",
+    "lookups": 1
+  },
+  {
+    "word": "anaglyph",
+    "pos": "noun",
+    "definition": "A stereoscopic photograph or image viewed using coloured spectacles to create a 3D effect.",
+    "origin": "Greek anagluphos 'embossed', from ana- 'up' + gluphein 'to carve'",
+    "book": "Empire of Silence",
+    "lookups": 1
+  },
+  {
+    "word": "anagram",
+    "pos": "noun",
+    "definition": "A word or phrase formed by rearranging the letters of a different word or phrase.",
+    "origin": "Greek anagrammatismos, from ana- 'again' + gramma 'letter'",
+    "book": "Network Effect: 5 (The Murderbot Diaries)",
+    "lookups": 1
+  },
+  {
+    "word": "anathema",
+    "pos": "noun",
+    "definition": "Something or someone greatly detested or loathed; a formal curse by a church excommunicating a person.",
+    "origin": "Greek anathema 'thing devoted to evil', from anatithenai 'to set up'",
+    "book": "Lich Hunt: Liches Get Stitches Book 4",
+    "lookups": 2
+  },
+  {
+    "word": "anemic",
+    "pos": "adjective",
+    "definition": "Suffering from anaemia; lacking in vitality, force, or effectiveness; pale and weak.",
+    "origin": "Greek anaimia 'bloodlessness', from an- 'without' + haima 'blood'",
+    "book": "Beastborne: Tower of Blight: A LitRPG Adventure (Beastborne Chronicles, Book 6)",
+    "lookups": 1
+  },
+  {
+    "word": "animus",
+    "pos": "noun",
+    "definition": "Hostility or ill feeling; motivation to do something; in Jungian psychology, the masculine aspect of a woman's psyche.",
+    "origin": "Latin animus 'spirit, mind, courage, anger'",
+    "book": "The War on the West",
+    "lookups": 2
+  },
+  {
+    "word": "annelid",
+    "pos": "noun",
+    "definition": "A segmented worm of the phylum Annelida, such as an earthworm or leech.",
+    "origin": "Latin annelida, from French annelé 'ringed', from Latin anellus 'little ring'",
+    "book": "Darwin's Watch",
+    "lookups": 1
+  },
+  {
+    "word": "anodyne",
+    "pos": "adjective/noun",
+    "definition": "Not likely to cause offence or disagreement; a painkilling drug or medicine.",
+    "origin": "Greek anodunos 'free from pain', from an- 'without' + odune 'pain'",
+    "book": "Dark State--A Novel of the Merchant Princes Multiverse",
+    "lookups": 1
+  },
+  {
+    "word": "antebellum",
+    "pos": "adjective",
+    "definition": "Occurring or existing before a particular war, especially the American Civil War.",
+    "origin": "Latin ante bellum 'before the war', from ante 'before' + bellum 'war'",
+    "book": "Powers and Thrones: A New History of the Middle Ages",
+    "lookups": 1
+  },
+  {
+    "word": "antecedents",
+    "pos": "noun",
+    "definition": "A thing or event that existed before or logically precedes another; one's ancestors or family background.",
+    "origin": "Latin antecedere 'to go before', from ante 'before' + cedere 'to go'",
+    "book": "Polity Agent",
+    "lookups": 1
+  },
+  {
+    "word": "antediluvian",
+    "pos": "adjective",
+    "definition": "Of or belonging to the time before the biblical Flood; ridiculously old-fashioned.",
+    "origin": "Latin ante 'before' + diluvium 'deluge', from diluere 'to wash away'",
+    "book": "Empire Games Series, Book 1",
+    "lookups": 1
+  },
+  {
+    "word": "apostate",
+    "pos": "noun",
+    "definition": "A person who renounces a religious or political belief or principle.",
+    "origin": "Greek apostates 'deserter', from aphistanai 'to defect', from apo 'away' + histanai 'to stand'",
+    "book": "Powers and Thrones: A New History of the Middle Ages",
+    "lookups": 1
+  },
+  {
+    "word": "apotheosis",
+    "pos": "noun",
+    "definition": "The highest point in the development of something; elevation to divine status; the perfect example of something.",
+    "origin": "Greek apotheoun 'to deify', from apo- 'away' + theos 'god'",
+    "book": "Beastborne: Crucible: Beastborne Chronicles, Book 4",
+    "lookups": 1
+  },
+  {
+    "word": "appeasement",
+    "pos": "noun",
+    "definition": "The action of appeasing someone or something; a policy of making concessions to an aggressor to avoid conflict.",
+    "origin": "Old French apaisier 'to bring to peace', from a- 'to' + pais 'peace', from Latin pax",
+    "book": "X, Y & Z: The Real Story of How Enigma Was Broken",
+    "lookups": 1
+  },
+  {
+    "word": "aquiline",
+    "pos": "adjective",
+    "definition": "Like an eagle; (of a person's nose) hooked like an eagle's beak.",
+    "origin": "Latin aquilinus 'eagle-like', from aquila 'eagle'",
+    "book": "Invader 1-5",
+    "lookups": 2
+  },
+  {
+    "word": "arbiter",
+    "pos": "noun",
+    "definition": "A person with ultimate authority in a matter; a judge who settles a dispute between parties.",
+    "origin": "Latin arbiter 'judge, supreme ruler', possibly from ar- 'to' + baetere 'to go'",
+    "book": "Rescue (The Stork Tower Book 4)",
+    "lookups": 1
+  },
+  {
+    "word": "archetypal",
+    "pos": "adjective",
+    "definition": "Very typical of a certain kind of person or thing; relating to an original model or prototype.",
+    "origin": "Greek arkhetupos 'original pattern', from arkhe- 'first' + tupos 'type'",
+    "book": "Discount Dan: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "artificer",
+    "pos": "noun",
+    "definition": "A skilled craftsman or mechanic; a person who cleverly contrives something; historically, a military mechanic.",
+    "origin": "Latin artificer 'craftsman', from ars 'art' + facere 'to make'",
+    "book": "We Hunt Monsters 7",
+    "lookups": 1
+  },
+  {
+    "word": "ascetics",
+    "pos": "noun",
+    "definition": "Persons who practise severe self-discipline and abstention from indulgence, often for religious reasons.",
+    "origin": "Greek asketes 'monk, hermit', from askein 'to exercise, train'",
+    "book": "Beyond Death (Perimeter Defense Book #2)",
+    "lookups": 1
+  },
+  {
+    "word": "asinine",
+    "pos": "adjective",
+    "definition": "Extremely stupid or foolish; resembling or characteristic of a donkey.",
+    "origin": "Latin asininus 'of or like an ass', from asinus 'ass, donkey'",
+    "book": "Beastborne: Mist Wardens: An Epic Portal Fantasy LitRPG Saga (Beastborne Chronicles, Book 3)",
+    "lookups": 1
+  },
+  {
+    "word": "astringent",
+    "pos": "adjective/noun",
+    "definition": "Causing the contraction of body tissues; sharp or severe in manner; a substance that causes contraction.",
+    "origin": "Latin astringens, from astringere 'to bind fast', from ad- 'to' + stringere 'to bind'",
+    "book": "Defiance of the Fall 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "astute",
+    "pos": "adjective",
+    "definition": "Having an ability to accurately assess situations or people and turn this to one's advantage; shrewd.",
+    "origin": "Latin astutus, from astus 'craft, cunning'",
+    "book": "Invisible Sun",
+    "lookups": 1
+  },
+  {
+    "word": "atavism",
+    "pos": "noun",
+    "definition": "The reappearance in an individual of characteristics of remote ancestors; reversion to an earlier type.",
+    "origin": "Latin atavus 'forefather', from atta 'father' + avus 'grandfather'",
+    "book": "Defiance of the Fall 9: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "athwart",
+    "pos": "preposition/adverb",
+    "definition": "From side to side of; across; in opposition to.",
+    "origin": "Old Norse þvert 'across', from þverr 'transverse'",
+    "book": "Revolution Business",
+    "lookups": 1
+  },
+  {
+    "word": "attrition",
+    "pos": "noun",
+    "definition": "The process of reducing something's strength through sustained attack or pressure; wearing down by friction.",
+    "origin": "Latin attritio, from atterere 'to rub against', from ad- 'to' + terere 'to rub'",
+    "book": "Revolution Business",
+    "lookups": 2
+  },
+  {
+    "word": "augur",
+    "pos": "verb/noun",
+    "definition": "(Of an event) to be a sign of a likely outcome; a religious official in ancient Rome who interpreted omens.",
+    "origin": "Latin augur 'soothsayer', possibly from avis 'bird' + gerere 'to conduct' (one who reads bird signs)",
+    "book": "The Primal Hunter 7: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "august",
+    "pos": "adjective",
+    "definition": "Inspiring reverence and admiration; of supreme dignity; respected and impressive.",
+    "origin": "Latin augustus 'consecrated, venerable', from augere 'to increase'",
+    "book": "Salute the Dark",
+    "lookups": 1
+  },
+  {
+    "word": "australopithecus",
+    "pos": "noun",
+    "definition": "An extinct genus of early hominid, with both ape-like and human characteristics, found in Africa.",
+    "origin": "Latin australis 'southern' + Greek pithekos 'ape'",
+    "book": "Invisible Sun",
+    "lookups": 1
+  },
+  {
+    "word": "autochthonous",
+    "pos": "adjective",
+    "definition": "Indigenous; originating or formed in the place where found; not introduced from outside.",
+    "origin": "Greek autochthon 'of the land itself', from autos 'self' + chthon 'earth'",
+    "book": "Salvation: A Novel",
+    "lookups": 1
+  },
+  {
+    "word": "avarice",
+    "pos": "noun",
+    "definition": "Extreme greed for wealth or material gain; insatiable desire for riches.",
+    "origin": "Latin avaritia, from avarus 'greedy', from avere 'to crave'",
+    "book": "Dragon's Justice 2",
+    "lookups": 2
+  },
+  {
+    "word": "avuncular",
+    "pos": "adjective",
+    "definition": "Kind and friendly towards younger people; characteristic of or resembling a benevolent uncle.",
+    "origin": "Latin avunculus 'maternal uncle', diminutive of avus 'grandfather'",
+    "book": "The Family Trade",
+    "lookups": 1
+  },
+  {
+    "word": "awning",
+    "pos": "noun",
+    "definition": "A sheet of canvas or other material stretched on a frame and used to shade a shop window or doorway.",
+    "origin": "Origin uncertain; possibly from Dutch or nautical terminology, 17th century",
+    "book": "The Path of Ascension 2: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "baldric",
+    "pos": "noun",
+    "definition": "A belt worn over one shoulder and across the body, typically used to support a sword or bugle.",
+    "origin": "Old French baudrei, of Germanic origin; related to medieval Latin balteus 'belt'",
+    "book": "Blood of the Mantis",
+    "lookups": 2
+  },
+  {
+    "word": "batholith",
+    "pos": "noun",
+    "definition": "A very large body of intrusive igneous rock formed by the solidification of magma deep in the earth.",
+    "origin": "Greek bathos 'depth' + lithos 'stone'",
+    "book": "Consider Phlebas",
+    "lookups": 1
+  },
+  {
+    "word": "beguile",
+    "pos": "verb",
+    "definition": "To charm or enchant someone, sometimes in a deceptive way; to help time pass pleasantly.",
+    "origin": "From be- (intensive prefix) + guile 'deceit', from Old French guile, of Germanic origin",
+    "book": "He Who Fights with Monsters: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "belay",
+    "pos": "verb",
+    "definition": "(Nautical) to fix a running rope around a pin or cleat; (Climbing) to secure a climbing rope. Also: stop!",
+    "origin": "Old English belecgan, from be- 'about' + lecgan 'to lay'",
+    "book": "Demon in White",
+    "lookups": 1
+  },
+  {
+    "word": "bellicose",
+    "pos": "adjective",
+    "definition": "Demonstrating aggression and willingness to fight; favouring or inclined to start wars.",
+    "origin": "Latin bellicosus 'warlike', from bellicus 'relating to war', from bellum 'war'",
+    "book": "Rescue (The Stork Tower Book 4)",
+    "lookups": 1
+  },
+  {
+    "word": "belligerent",
+    "pos": "adjective/noun",
+    "definition": "Hostile and aggressive; a nation or person engaged in war or conflict.",
+    "origin": "Latin belligerare 'to wage war', from bellum 'war' + gerere 'to carry on'",
+    "book": "The Templars",
+    "lookups": 1
+  },
+  {
+    "word": "benevolent",
+    "pos": "adjective",
+    "definition": "Well meaning and kindly; charitable; (of an organization) serving charitable purposes.",
+    "origin": "Latin benevolens, from bene 'well' + volens 'wishing', from velle 'to wish'",
+    "book": "Resurrection (The Stork Tower Book 7)",
+    "lookups": 1
+  },
+  {
+    "word": "berm",
+    "pos": "noun",
+    "definition": "A narrow ledge of land along a road, canal, or other feature; a flat strip of land beside a raised structure.",
+    "origin": "French berme, from Dutch berm, from Old High German brem 'edge'",
+    "book": "The Path of Ascension 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "betwixt",
+    "pos": "preposition/adverb",
+    "definition": "(Archaic) Between; in or into the middle of.",
+    "origin": "Old English betwix, from be- 'by' + a Germanic word related to twi- 'two'",
+    "book": "Martyr (9780316430791)",
+    "lookups": 1
+  },
+  {
+    "word": "bigot",
+    "pos": "noun",
+    "definition": "A person who is obstinately or unreasonably attached to a belief, opinion, or faction, especially with intolerance.",
+    "origin": "French bigot, of unknown origin; possibly a religious slur from the Middle Ages",
+    "book": "Fermat's Last Theorem",
+    "lookups": 1
+  },
+  {
+    "word": "blithely",
+    "pos": "adverb",
+    "definition": "In a carefree and cheerful manner; showing a casual disregard for consequences.",
+    "origin": "Old English blithe 'cheerful, gentle', from Germanic origin; related to German bleidig",
+    "book": "Dragon Heart: Land of The Enemy. LitRPG Wuxia Series: Book 8",
+    "lookups": 1
+  },
+  {
+    "word": "bowyer",
+    "pos": "noun",
+    "definition": "A person who makes or sells archery bows.",
+    "origin": "From bow (the weapon) + -yer suffix denoting an agent; Old English boga 'bow'",
+    "book": "The Primal Hunter 4",
+    "lookups": 1
+  },
+  {
+    "word": "brine",
+    "pos": "noun",
+    "definition": "Water saturated or strongly impregnated with salt; the sea; a liquid used for pickling.",
+    "origin": "Old English bryne, of unknown ultimate origin; possibly from Proto-Germanic *brunjaz",
+    "book": "The Player of Games",
+    "lookups": 1
+  },
+  {
+    "word": "bucolic",
+    "pos": "adjective",
+    "definition": "Relating to the pleasant aspects of the countryside and rural life; idyllically pastoral.",
+    "origin": "Latin bucolicus, from Greek boukolikos, from boukolos 'cowherd', from bous 'cow'",
+    "book": "Gridlinked",
+    "lookups": 2
+  },
+  {
+    "word": "bulwark",
+    "pos": "noun",
+    "definition": "A defensive wall; a person or thing that acts as a defence; a ship's side above deck level.",
+    "origin": "Middle Low German or Middle Dutch bolwerk 'planked structure', from bol 'plank' + werk 'work'",
+    "book": "Beastborne: Voracious: A LitRPG Adventure (Beastborne Chronicles, Book 5)",
+    "lookups": 1
+  },
+  {
+    "word": "buttress",
+    "pos": "noun/verb",
+    "definition": "A projecting support built against a wall; a source of defence or support; to support or strengthen.",
+    "origin": "Old French bouter 'to thrust', related to butt; compare French bouteroue 'a prop'",
+    "book": "Rhythm of War (STORMLIGHT ARCHIVE)",
+    "lookups": 1
+  },
+  {
+    "word": "cabal",
+    "pos": "noun",
+    "definition": "A secret political clique or faction; a group of persons joined in a close design.",
+    "origin": "French cabale, from medieval Latin cabbala 'Kabbalah'; its letters said to stand for ministers of Charles II",
+    "book": "He Who Fights with Monsters 4: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "callous",
+    "pos": "adjective",
+    "definition": "Showing or having an insensitive and cruel disregard for others; (of skin) hardened and thickened.",
+    "origin": "Latin callosus 'thick-skinned', from callum 'hardened skin'",
+    "book": "He Who Fights with Monsters 10: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "cantankerous",
+    "pos": "adjective",
+    "definition": "Bad-tempered, argumentative, and uncooperative; easily irritated.",
+    "origin": "Of unknown origin; possibly from Middle English conteke 'strife', + -ous suffix; 18th century",
+    "book": "Creation Mage 9",
+    "lookups": 1
+  },
+  {
+    "word": "caparisoned",
+    "pos": "adjective",
+    "definition": "(Of a horse) fitted with a decorative covering and harness; richly dressed or equipped.",
+    "origin": "French caparaçon, from Spanish caparazón 'saddle cloth', of uncertain origin",
+    "book": "The Templars",
+    "lookups": 1
+  },
+  {
+    "word": "carboniferous",
+    "pos": "adjective",
+    "definition": "Producing or containing carbon or coal; relating to the geological period 359–299 million years ago.",
+    "origin": "Latin carbo 'coal' + ferre 'to bear, carry'",
+    "book": "Trade of Queens",
+    "lookups": 1
+  },
+  {
+    "word": "carouse",
+    "pos": "verb",
+    "definition": "Drink plentiful amounts of alcohol and enjoy oneself with others in a noisy manner.",
+    "origin": "German gar aus (trinken) 'drink completely', from gar 'completely' + aus 'out'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "castigate",
+    "pos": "verb",
+    "definition": "To reprimand someone severely; to criticise harshly.",
+    "origin": "Latin castigare 'to chastise', from castus 'pure' + agere 'to drive'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "cerulean",
+    "pos": "adjective",
+    "definition": "A deep sky blue colour; of a clear, bright blue.",
+    "origin": "Latin caeruleus 'sky blue', possibly from caelum 'sky'",
+    "book": "Immortal Swordslinger 6",
+    "lookups": 2
+  },
+  {
+    "word": "cessation",
+    "pos": "noun",
+    "definition": "The fact or process of ending or being brought to an end; a stop or discontinuance.",
+    "origin": "Latin cessatio, from cessare 'to stop', frequentative of cedere 'to yield'",
+    "book": "Charles Stross - Laundry Files 01",
+    "lookups": 1
+  },
+  {
+    "word": "chagrin",
+    "pos": "noun/verb",
+    "definition": "Distress or embarrassment at having failed or been humiliated; to feel or cause distress.",
+    "origin": "French chagrin 'rough skin, sorrow', of unknown origin",
+    "book": "Gridlinked",
+    "lookups": 1
+  },
+  {
+    "word": "charnel",
+    "pos": "adjective",
+    "definition": "Associated with death; resembling or containing dead bodies; a charnel house holds corpses.",
+    "origin": "Old French charnel 'of the flesh', from Latin carnalis, from caro 'flesh'",
+    "book": "Viking Raid",
+    "lookups": 1
+  },
+  {
+    "word": "chatelaine",
+    "pos": "noun",
+    "definition": "A woman who owns or manages a large house; historically, a set of short chains attached to a belt.",
+    "origin": "French châtelaine, feminine of châtelain 'castle keeper', from Latin castellanus",
+    "book": "The Jennifer Morgue",
+    "lookups": 1
+  },
+  {
+    "word": "chthonic",
+    "pos": "adjective",
+    "definition": "Relating to or inhabiting the underworld; of the earth, especially the dark interior of the earth.",
+    "origin": "Greek khthonios 'of the earth', from khthon 'earth'",
+    "book": "Howling Dark (Sun Eater)",
+    "lookups": 1
+  },
+  {
+    "word": "cislunar",
+    "pos": "adjective",
+    "definition": "Between the earth and the moon or the moon's orbit; within the gravitational sphere of the moon.",
+    "origin": "Latin cis 'on this side of' + luna 'moon'",
+    "book": "Delta-V",
+    "lookups": 2
+  },
+  {
+    "word": "clandestine",
+    "pos": "adjective",
+    "definition": "Kept secret or done secretively, especially because illicit; conducted in hidden or concealed manner.",
+    "origin": "Latin clandestinus, from clam 'secretly', related to celare 'to hide'",
+    "book": "The 120 Days of Sodom",
+    "lookups": 2
+  },
+  {
+    "word": "claptrap",
+    "pos": "noun",
+    "definition": "Absurd or nonsensical talk or ideas; cheap popular sentiment designed to elicit applause.",
+    "origin": "From clap + trap; originally theatrical jargon for a device to 'trap' applause, 18th century",
+    "book": "Invader 1-5",
+    "lookups": 1
+  },
+  {
+    "word": "clemency",
+    "pos": "noun",
+    "definition": "Mercy and leniency shown towards offenders or enemies; mildness of weather.",
+    "origin": "Latin clementia, from clemens 'mild, merciful'",
+    "book": "Revealed (The Jade Phoenix Saga #2) - A Cultivation LitRPG Series",
+    "lookups": 1
+  },
+  {
+    "word": "cohort",
+    "pos": "noun",
+    "definition": "A group of people with a shared characteristic or experience; historically, a unit of Roman soldiers.",
+    "origin": "Latin cohors 'enclosure, yard; company of soldiers', from co- 'together' + hors, related to hortus 'garden'",
+    "book": "Cul-de-sac Carnage : A LitRPG Adventure (Discount Dan's Backroom Bargains Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "commensal",
+    "pos": "adjective/noun",
+    "definition": "(Biology) of a relationship where one organism benefits without harming the other; a person who eats at the same table.",
+    "origin": "Medieval Latin commensalis, from com- 'sharing' + mensa 'table'",
+    "book": "For We Are Many (Bobiverse Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "condescension",
+    "pos": "noun",
+    "definition": "An attitude of patronizing superiority; acting as if others are inferior while graciously accommodating them.",
+    "origin": "Latin condescendere 'to stoop', from com- 'together' + descendere 'to descend'",
+    "book": "Disquiet Gods",
+    "lookups": 1
+  },
+  {
+    "word": "conscientious",
+    "pos": "adjective",
+    "definition": "Wishing to do what is right, especially in a thorough and careful manner; diligent and painstaking.",
+    "origin": "French consciencieux, from medieval Latin conscientia 'conscience', from conscire 'to be aware'",
+    "book": "Invisible Sun",
+    "lookups": 1
+  },
+  {
+    "word": "consort",
+    "pos": "noun/verb",
+    "definition": "A wife or husband, especially of a reigning monarch; to habitually associate with, often disapprovingly.",
+    "origin": "Latin consors 'sharing, partner', from com- 'together' + sors 'fate, lot'",
+    "book": "The Traitor",
+    "lookups": 1
+  },
+  {
+    "word": "contrite",
+    "pos": "adjective",
+    "definition": "Feeling or expressing remorse or penitence; affected by guilt; sincerely sorry.",
+    "origin": "Latin contritus 'worn down', past participle of conterere, from com- + terere 'to rub, grind'",
+    "book": "He Who Fights with Monsters 9: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "conventicle",
+    "pos": "noun",
+    "definition": "A secret or unlawful religious meeting, especially of nonconformists; a small gathering for worship.",
+    "origin": "Latin conventiculum 'small assembly', diminutive of conventus 'assembly', from convenire 'to come together'",
+    "book": "Mayor of Elf Town 2",
+    "lookups": 1
+  },
+  {
+    "word": "corporeal",
+    "pos": "adjective",
+    "definition": "Relating to a person's body, especially as opposed to their spirit; having a physical material form.",
+    "origin": "Latin corporeus, from corpus 'body'",
+    "book": "Defiance of the Fall 9: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "corticosteroid",
+    "pos": "noun",
+    "definition": "Any of a group of steroid hormones produced in the adrenal cortex, used medically as anti-inflammatory agents.",
+    "origin": "Latin cortex 'bark, outer layer' + steroid, from Greek stereos 'solid' + -oid",
+    "book": "Night King 1",
+    "lookups": 1
+  },
+  {
+    "word": "coruscating",
+    "pos": "adjective",
+    "definition": "Flashing or sparkling; (of wit or brilliance) dazzling and vivid; scintillating.",
+    "origin": "Latin coruscare 'to glitter, flash', of unknown ultimate origin",
+    "book": "Defiance of the Fall 6: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "coterie",
+    "pos": "noun",
+    "definition": "A small group of people with shared interests or tastes, especially one that is exclusive.",
+    "origin": "French coterie, from Old French cotier 'tenant', from cote 'cottage'",
+    "book": "Martyr (9780316430791)",
+    "lookups": 1
+  },
+  {
+    "word": "coterminous",
+    "pos": "adjective",
+    "definition": "Having the same boundaries or extent in space, time, or meaning; sharing a common boundary.",
+    "origin": "Latin co- 'together' + terminare 'to limit', from terminus 'end, boundary'",
+    "book": "He Who Fights with Monsters 5: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "countenance",
+    "pos": "noun/verb",
+    "definition": "A person's face or facial expression; to accept or tolerate something.",
+    "origin": "Old French contenance 'bearing, behaviour', from Latin continere 'to hold together'",
+    "book": "The 120 Days of Sodom",
+    "lookups": 1
+  },
+  {
+    "word": "crass",
+    "pos": "adjective",
+    "definition": "Showing no intelligence or sensitivity; so obviously wrong as to seem stupid; in poor taste.",
+    "origin": "Latin crassus 'thick, gross, dense'",
+    "book": "Roman Arena 1-5",
+    "lookups": 1
+  },
+  {
+    "word": "craven",
+    "pos": "adjective/noun",
+    "definition": "Contemptibly lacking in courage; cowardly; an abject coward.",
+    "origin": "Middle English cravant 'defeated', possibly from Old French cravanter 'to crush', from Latin crepare 'to crack'",
+    "book": "Skirmish",
+    "lookups": 1
+  },
+  {
+    "word": "crepuscular",
+    "pos": "adjective",
+    "definition": "Relating to or resembling twilight; (of animals) appearing or active at dawn or dusk.",
+    "origin": "Latin crepusculum 'twilight', from creper 'obscure, dusky'",
+    "book": "Witchshadow",
+    "lookups": 2
+  },
+  {
+    "word": "culpable",
+    "pos": "adjective",
+    "definition": "Deserving blame or censure; morally responsible for a fault or wrong; guilty.",
+    "origin": "Latin culpabilis, from culpare 'to blame', from culpa 'fault'",
+    "book": "The 120 Days of Sodom",
+    "lookups": 1
+  },
+  {
+    "word": "cummerbund",
+    "pos": "noun",
+    "definition": "A broad sash worn around the waist, especially as part of formal male dress with a dinner jacket.",
+    "origin": "Hindi and Urdu kamarband, from Persian kamar 'waist' + band 'band, fastening'",
+    "book": "The Jennifer Morgue",
+    "lookups": 1
+  },
+  {
+    "word": "cupidity",
+    "pos": "noun",
+    "definition": "Greed for money or possessions; excessive desire for wealth; avarice.",
+    "origin": "Latin cupiditas, from cupidus 'desirous', from cupere 'to desire'",
+    "book": "Empire of Silence",
+    "lookups": 1
+  },
+  {
+    "word": "datum",
+    "pos": "noun",
+    "definition": "A piece of information; a fixed starting point of a scale or reference; the singular of 'data'.",
+    "origin": "Latin datum 'something given', neuter past participle of dare 'to give'",
+    "book": "Ashes of Man",
+    "lookups": 1
+  },
+  {
+    "word": "daub",
+    "pos": "verb/noun",
+    "definition": "To smear or coat a surface with a thick substance; a crude or inartistic painting; a smear of material.",
+    "origin": "Old French dauber 'to plaster', from Latin dealbare 'to whitewash', from albus 'white'",
+    "book": "Viking Sword",
+    "lookups": 1
+  },
+  {
+    "word": "dearth",
+    "pos": "noun",
+    "definition": "A scarcity or lack of something; an inadequate supply or amount.",
+    "origin": "Middle English derth 'scarcity', from Old English dēore 'dear, costly'",
+    "book": "Gilded Serpent",
+    "lookups": 1
+  },
+  {
+    "word": "debauchery",
+    "pos": "noun",
+    "definition": "Excessive indulgence in sensual pleasures, especially eating, drinking, and sexual activity.",
+    "origin": "French débaucher 'to lead astray', from dé- 'away from' + bauche 'workshop, beam'",
+    "book": "Shadowcroft Academy For Dungeons: Year Two",
+    "lookups": 1
+  },
+  {
+    "word": "debonair",
+    "pos": "adjective",
+    "definition": "(Of a man) confident, stylish, and charming; having a sophisticated and carefree manner.",
+    "origin": "Old French de bon aire 'of good disposition', from bon 'good' + aire 'lair, origin'",
+    "book": "Rise of the King : Companion Codex (9780786965519)",
+    "lookups": 2
+  },
+  {
+    "word": "defenestrate",
+    "pos": "verb",
+    "definition": "To throw someone out of a window; the act of ejecting a person from a position of authority.",
+    "origin": "Latin de- 'out of' + fenestra 'window'; coined after the 1618 Defenestration of Prague",
+    "book": "The Atlas Six",
+    "lookups": 1
+  },
+  {
+    "word": "deference",
+    "pos": "noun",
+    "definition": "Humble submission and respect towards another; courteous regard for someone's wishes.",
+    "origin": "French déférence, from déférer 'to yield to', from Latin deferre 'to bring down'",
+    "book": "The Traitor",
+    "lookups": 1
+  },
+  {
+    "word": "demesne",
+    "pos": "noun",
+    "definition": "Land attached to a manor; a district or territory; the land retained in a lord's own use.",
+    "origin": "Old French demeine (later altered to resemble Latin dominium 'domain'), from Latin dominium 'lordship'",
+    "book": "Sector Eight (Perimeter Defense: Book #1)",
+    "lookups": 1
+  },
+  {
+    "word": "denigrate",
+    "pos": "verb",
+    "definition": "To criticise unfairly; to belittle or disparage someone or their work; to blacken in reputation.",
+    "origin": "Latin denigrare 'to blacken', from de- 'completely' + nigrare 'to blacken', from niger 'black'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "denouement",
+    "pos": "noun",
+    "definition": "The final part of a play, film, or narrative in which the strands of the plot are drawn together; a resolution.",
+    "origin": "French dénouement, from dénouer 'to untie', from dé- 'un-' + nouer 'to knot', from Latin nodus 'knot'",
+    "book": "The Anglo-Saxons: A History of the Beginnings of England: 400 – 1066",
+    "lookups": 2
+  },
+  {
+    "word": "detente",
+    "pos": "noun",
+    "definition": "The easing of hostility or strained relations between countries through diplomacy.",
+    "origin": "French détente 'loosening, relaxation', from détendre 'to relax', from dé- 'un-' + tendre 'to stretch'",
+    "book": "The Scarab Path",
+    "lookups": 1
+  },
+  {
+    "word": "detritus",
+    "pos": "noun",
+    "definition": "Waste or debris of any kind; particles of rock worn away from a mass; organic matter resulting from decomposition.",
+    "origin": "Latin detritus 'wearing away', from deterere, from de- 'away' + terere 'to rub'",
+    "book": "Invader 1-5",
+    "lookups": 3
+  },
+  {
+    "word": "diaphanous",
+    "pos": "adjective",
+    "definition": "(Especially of fabric) light, delicate, and translucent; so thin as to be transparent.",
+    "origin": "Greek diaphanes 'transparent', from diaphainein 'to show through', from dia 'through' + phainein 'to show'",
+    "book": "He Who Fights with Monsters 10: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "dichotomy",
+    "pos": "noun",
+    "definition": "A division or contrast between two things that are represented as entirely opposite.",
+    "origin": "Greek dikhotomia, from dikho- 'in two, apart' + temnein 'to cut'",
+    "book": "A Companion to Marx’s Capital",
+    "lookups": 2
+  },
+  {
+    "word": "dilapidated",
+    "pos": "adjective",
+    "definition": "(Of a building or object) in a state of disrepair or ruin as a result of age or neglect.",
+    "origin": "Latin dilapidare 'to scatter like stones', from di- 'apart' + lapis 'stone'",
+    "book": "Salvation Lost",
+    "lookups": 1
+  },
+  {
+    "word": "dilettante",
+    "pos": "noun/adjective",
+    "definition": "A person who cultivates an area of interest without real commitment or knowledge; an amateur.",
+    "origin": "Italian dilettante 'person loving the arts', from dilettare 'to delight', from Latin delectare",
+    "book": "He Who Fights with Monsters 7: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "diminution",
+    "pos": "noun",
+    "definition": "A reduction in the size, extent, or importance of something; a lessening.",
+    "origin": "Latin diminutio, from diminuere 'to break into pieces', from de- + minuere 'to lessen'",
+    "book": "Succubus 7 (Fairy Tale): A LitRPG Series",
+    "lookups": 1
+  },
+  {
+    "word": "dirigible",
+    "pos": "noun/adjective",
+    "definition": "A blimp or airship capable of being steered; capable of being directed or guided.",
+    "origin": "Latin dirigere 'to direct', from di- 'apart' + regere 'to guide'",
+    "book": "He Who Fights with Monsters 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "disaffected",
+    "pos": "adjective",
+    "definition": "Dissatisfied with the people in authority and no longer willing to support them.",
+    "origin": "From dis- 'reversal' + affect + -ed; a sense of lost loyalty",
+    "book": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+    "lookups": 1
+  },
+  {
+    "word": "diurnal",
+    "pos": "adjective",
+    "definition": "Of or during the day; relating to or occurring in a 24-hour period; (of animals) active during the day.",
+    "origin": "Latin diurnalis, from diurnus 'daily', from dies 'day'",
+    "book": "Heaven's River",
+    "lookups": 2
+  },
+  {
+    "word": "dizygotic",
+    "pos": "adjective",
+    "definition": "(Of twins) derived from two separately fertilized eggs; fraternal, not identical.",
+    "origin": "Greek di- 'two' + zygon 'yoke' + -otic; i.e. from two separate zygotes",
+    "book": "Critical Mass: A Novel",
+    "lookups": 1
+  },
+  {
+    "word": "dodecahedron",
+    "pos": "noun",
+    "definition": "A three-dimensional figure with twelve flat faces, each being a regular pentagon.",
+    "origin": "Greek dodekaedron, from dodeka 'twelve' + hedra 'base, seat, face'",
+    "book": "Armada",
+    "lookups": 2
+  },
+  {
+    "word": "doldrums",
+    "pos": "noun",
+    "definition": "A state or period of stagnation or depression; an equatorial belt of calms and light winds at sea.",
+    "origin": "Of unknown origin; possibly from dull + -drum (as in tantrum), or from Old English dol 'dull'",
+    "book": "Dark Skies",
+    "lookups": 1
+  },
+  {
+    "word": "dominion",
+    "pos": "noun",
+    "definition": "Sovereignty or control; the power or right to rule; a self-governing territory of the British Commonwealth.",
+    "origin": "Old French dominion, from Latin dominium 'lordship', from dominus 'lord, master'",
+    "book": "He Who Fights with Monsters: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "doughty",
+    "pos": "adjective",
+    "definition": "Brave and persistent; showing great strength and determination.",
+    "origin": "Old English dohtig, from dugan 'to be worth, be strong'; related to Dutch duchtig",
+    "book": "Viking Kingdom",
+    "lookups": 1
+  },
+  {
+    "word": "dowager",
+    "pos": "noun",
+    "definition": "A widow who holds a title or property derived from her late husband; a dignified elderly woman.",
+    "origin": "French douagière, from douage 'widow's portion', from Old French douer 'to endow', from Latin dotare",
+    "book": "The Family Trade",
+    "lookups": 1
+  },
+  {
+    "word": "dubious",
+    "pos": "adjective",
+    "definition": "Hesitating or doubting; not to be relied upon; of questionable value or honesty.",
+    "origin": "Latin dubiosus, from dubium 'doubt', from dubus 'doubtful', from duo 'two'",
+    "book": "Stuka Pilot",
+    "lookups": 1
+  },
+  {
+    "word": "duplicitous",
+    "pos": "adjective",
+    "definition": "Deceitful; given to saying one thing and meaning another; acting in bad faith.",
+    "origin": "Latin duplicitas 'doubleness', from duplex 'twofold', from duo 'two' + plicare 'to fold'",
+    "book": "The Sea Watch",
+    "lookups": 1
+  },
+  {
+    "word": "dystrophy",
+    "pos": "noun",
+    "definition": "A condition causing progressive weakening and loss of muscle mass; muscular dystrophy.",
+    "origin": "Greek dus- 'bad, difficult' + trophe 'nourishment'",
+    "book": "Zinky Boys: Soviet Voices from the Afghanistan War",
+    "lookups": 1
+  },
+  {
+    "word": "ebullient",
+    "pos": "adjective",
+    "definition": "Cheerful and full of energy; (of liquid or matter) boiling or agitated as if boiling.",
+    "origin": "Latin ebullire 'to bubble up', from e- 'out' + bullire 'to bubble'",
+    "book": "He Who Fights With Monsters 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "edifice",
+    "pos": "noun",
+    "definition": "A large, imposing building; a complex system of beliefs or rules; an elaborate construction.",
+    "origin": "Old French edifice, from Latin aedificium, from aedificare 'to build', from aedes 'building' + facere 'to make'",
+    "book": "The Traitor",
+    "lookups": 1
+  },
+  {
+    "word": "effeminate",
+    "pos": "adjective",
+    "definition": "(Of a man) having characteristics regarded as typical of a woman; lacking masculine strength.",
+    "origin": "Latin effeminare 'to make womanish', from ex- 'out' + femina 'woman'",
+    "book": "Dragon Heart: Land of Magic. LitRPG Wuxia Series: Book 6",
+    "lookups": 1
+  },
+  {
+    "word": "effervescent",
+    "pos": "adjective",
+    "definition": "(Of a liquid) giving off bubbles; vivacious, enthusiastic, and full of energy.",
+    "origin": "Latin effervescere 'to boil up', from ex- 'out' + fervescere 'to begin to boil', from fervere 'to boil'",
+    "book": "Saints of Salvation (9781760983918)",
+    "lookups": 1
+  },
+  {
+    "word": "efficacy",
+    "pos": "noun",
+    "definition": "The ability to produce a desired or intended result; effectiveness.",
+    "origin": "Latin efficacia, from efficax 'effective', from efficere 'to accomplish', from ex- + facere 'to make'",
+    "book": "Defiance of the Fall 8: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "effigy",
+    "pos": "noun",
+    "definition": "A sculpture or model of a person; a roughly made model of a person, used to mock or display contempt.",
+    "origin": "Latin effigies, from effigiare 'to portray', from ex- 'out' + fingere 'to shape'",
+    "book": "The 120 Days of Sodom",
+    "lookups": 2
+  },
+  {
+    "word": "egalitarian",
+    "pos": "adjective/noun",
+    "definition": "Believing in or based on the principle that all people are equal; a person who advocates such equality.",
+    "origin": "French égalitaire, from Latin aequalis 'equal', from aequus 'level, equal'",
+    "book": "Starlight Enclave",
+    "lookups": 1
+  },
+  {
+    "word": "eidolon",
+    "pos": "noun",
+    "definition": "A spectre or phantom; an idealized person or thing; in Greek thought, an image or representation.",
+    "origin": "Greek eidolon 'image, phantom', from eidos 'form', from idein 'to see'",
+    "book": "Dungeon Diving 104",
+    "lookups": 1
+  },
+  {
+    "word": "eigenstate",
+    "pos": "noun",
+    "definition": "(Physics) a quantum state corresponding to a definite value of some observable physical quantity.",
+    "origin": "German eigen 'own, particular' + state; introduced in quantum mechanics, early 20th century",
+    "book": "Rescue (The Stork Tower Book 4)",
+    "lookups": 1
+  },
+  {
+    "word": "eigenvector",
+    "pos": "noun",
+    "definition": "(Mathematics) a vector whose direction is unchanged by a given transformation and is only scaled.",
+    "origin": "German eigen 'own, particular' + Latin vector 'carrier', from vehere 'to carry'",
+    "book": "Charles Stross - Laundry Files 01",
+    "lookups": 1
+  },
+  {
+    "word": "eldritch",
+    "pos": "adjective",
+    "definition": "Weird, mysterious, or sinister; uncanny and frightening; eerie.",
+    "origin": "Scots English, possibly from Old English el- 'foreign, other' + rice 'realm'; akin to 'otherworldly'",
+    "book": "The Merchants’ War",
+    "lookups": 1
+  },
+  {
+    "word": "emaciated",
+    "pos": "adjective",
+    "definition": "Abnormally thin or weak, especially because of illness or lack of food.",
+    "origin": "Latin emaciare 'to make thin', from e- 'out' + macies 'leanness', from macer 'lean'",
+    "book": "He Who Fights with Monsters 8: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "emancipation",
+    "pos": "noun",
+    "definition": "The fact or process of being set free from legal, social, or political restrictions; liberation.",
+    "origin": "Latin emancipare 'to free from paternal authority', from e- 'out' + mancipare 'to transfer ownership'",
+    "book": "The Ruin of Kings (A Chorus of Dragons)",
+    "lookups": 3
+  },
+  {
+    "word": "emetic",
+    "pos": "adjective/noun",
+    "definition": "(Of a substance) causing vomiting; a medicine or agent that induces vomiting.",
+    "origin": "Greek emetikos, from emein 'to vomit'",
+    "book": "The Family Trade",
+    "lookups": 1
+  },
+  {
+    "word": "emissary",
+    "pos": "noun",
+    "definition": "A person sent as a diplomatic representative on a special mission; an agent sent on a particular purpose.",
+    "origin": "Latin emissarius 'a scout or spy', from emittere 'to send out', from e- 'out' + mittere 'to send'",
+    "book": "Beastborne: Exiled Lands: An Epic Portal Fantasy LitRPG Saga (Beastborne Chronicles, Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "empyreal",
+    "pos": "adjective",
+    "definition": "Relating to the highest heaven; celestial; sublime; pertaining to the sky or firmament.",
+    "origin": "Medieval Latin empyreus, from Greek empyrios 'of fire', from en 'in' + pyr 'fire'",
+    "book": "Beastborne: Mark of the Founder",
+    "lookups": 1
+  },
+  {
+    "word": "entropic",
+    "pos": "adjective",
+    "definition": "Relating to or characterised by entropy; tending towards disorder and degradation.",
+    "origin": "Greek entropia, from en 'in' + trope 'transformation'; coined by Rudolf Clausius in 1865",
+    "book": "The Unspoken Name",
+    "lookups": 1
+  },
+  {
+    "word": "entropy",
+    "pos": "noun",
+    "definition": "A thermodynamic quantity representing disorder or randomness in a system; gradual decline into disorder.",
+    "origin": "Greek entropia, from en 'in' + trope 'transformation'; coined by Rudolf Clausius in 1865",
+    "book": "The Unspoken Name",
+    "lookups": 1
+  },
+  {
+    "word": "ephemeral",
+    "pos": "adjective",
+    "definition": "Lasting for a very short time; transitory; (of a plant) having a very short life cycle.",
+    "origin": "Greek ephemeros 'lasting only a day', from epi 'on' + hemera 'day'",
+    "book": "The Memory of Souls",
+    "lookups": 2
+  },
+  {
+    "word": "epigenetic",
+    "pos": "adjective",
+    "definition": "Relating to changes in gene expression that do not involve changes to the DNA sequence itself.",
+    "origin": "Greek epi 'upon, over' + genetics; coined in the mid-20th century in developmental biology",
+    "book": "Empire Games Series, Book 1",
+    "lookups": 1
+  },
+  {
+    "word": "epistemology",
+    "pos": "noun",
+    "definition": "The branch of philosophy concerned with the theory of knowledge, its nature and limits.",
+    "origin": "Greek episteme 'knowledge' + logos 'reason, study'; the study of the nature of knowledge",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "equerry",
+    "pos": "noun",
+    "definition": "An officer of the British royal household responsible for the horses; an attendant on a royal person.",
+    "origin": "French écurie 'stable', from Old French escuirie, from escuier 'squire', from Latin scutarius 'shield-bearer'",
+    "book": "The Family Trade",
+    "lookups": 1
+  },
+  {
+    "word": "ergodic",
+    "pos": "adjective",
+    "definition": "(Of a system) relating to a process where time averages are equal to space averages; having consistent statistical properties.",
+    "origin": "Greek ergon 'work' + hodos 'path'; coined in statistical mechanics, late 19th century",
+    "book": "The Merchants’ War",
+    "lookups": 1
+  },
+  {
+    "word": "ermine",
+    "pos": "noun",
+    "definition": "A stoat, especially in its white winter coat; the white fur of the stoat, used to trim robes of state.",
+    "origin": "Old French hermine, probably from medieval Latin Armenius mus 'Armenian mouse'",
+    "book": "Witchshadow",
+    "lookups": 1
+  },
+  {
+    "word": "erudite",
+    "pos": "adjective",
+    "definition": "Having or showing great knowledge or learning; scholarly and well-read.",
+    "origin": "Latin eruditus, past participle of erudire 'to educate', from e- 'out of' + rudis 'raw, untrained'",
+    "book": "Defiance of the Fall 5: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "eschatology",
+    "pos": "noun",
+    "definition": "The part of theology concerned with death, judgement, and the final destiny of the soul and mankind.",
+    "origin": "Greek eskhatos 'last' + logos 'study'; the study of last or final things",
+    "book": "Defiance of the Fall 11: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "escrow",
+    "pos": "noun",
+    "definition": "A bond or deed kept by a third party until a condition is fulfilled; money held in trust during a transaction.",
+    "origin": "Old French escroue 'scrap of paper, scroll', of Germanic origin",
+    "book": "Backyard Dungeon 5",
+    "lookups": 1
+  },
+  {
+    "word": "estuary",
+    "pos": "noun",
+    "definition": "The tidal mouth of a large river where the tide meets the stream; a wide inlet of the sea at a river's mouth.",
+    "origin": "Latin aestuarium, from aestus 'tide, heat'",
+    "book": "The Scarab Path",
+    "lookups": 3
+  },
+  {
+    "word": "eugenic",
+    "pos": "adjective",
+    "definition": "Relating to or adapted to the production of good or improved offspring; relating to eugenics.",
+    "origin": "Greek eugenes 'well-born', from eu 'well' + genos 'race, stock'",
+    "book": "The Player of Games",
+    "lookups": 1
+  },
+  {
+    "word": "euphemism",
+    "pos": "noun",
+    "definition": "A mild or indirect word or expression substituted for one considered too harsh or blunt.",
+    "origin": "Greek euphemismos, from euphemizein 'to use auspicious words', from eu 'well' + pheme 'speech'",
+    "book": "He Who Fights with Monsters 4: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "euphony",
+    "pos": "noun",
+    "definition": "The quality of being pleasing to the ear; a pleasing sound or combination of sounds.",
+    "origin": "Greek euphonia, from euphonos 'well-sounding', from eu 'well' + phone 'voice'",
+    "book": "Nineteen Eighty-Four",
+    "lookups": 1
+  },
+  {
+    "word": "eusocial",
+    "pos": "adjective",
+    "definition": "(Of an animal) showing the highest level of social organisation, involving reproductive division of labour.",
+    "origin": "Greek eu 'good, well' + social; coined by entomologist E.O. Wilson in 1971",
+    "book": "Invisible Sun",
+    "lookups": 1
+  },
+  {
+    "word": "evanescent",
+    "pos": "adjective",
+    "definition": "Soon passing out of sight, memory, or existence; quickly fading or disappearing.",
+    "origin": "Latin evanescere 'to vanish', from e- 'out' + vanescere 'to disappear', from vanus 'empty'",
+    "book": "Rise of the Weakest Summoner: Volume II",
+    "lookups": 1
+  },
+  {
+    "word": "eviscerate",
+    "pos": "verb",
+    "definition": "To disembowel; to deprive something of its essential content or force; to destroy the effectiveness of.",
+    "origin": "Latin eviscerare, from e- 'out' + viscera 'internal organs'",
+    "book": "We Hunt Monsters 5",
+    "lookups": 1
+  },
+  {
+    "word": "exalt",
+    "pos": "verb",
+    "definition": "To hold someone or something in very high regard; to praise enthusiastically; to raise to a higher position.",
+    "origin": "Latin exaltare, from ex- 'out' + altus 'high'",
+    "book": "Mark of the Fool 3: A Progression Fantasy Epic",
+    "lookups": 1
+  },
+  {
+    "word": "exchequer",
+    "pos": "noun",
+    "definition": "A royal or national treasury; the former UK government department managing public revenue.",
+    "origin": "Old French eschequier 'chessboard', from eschec 'chess'; the chessboard cloth used for accounting",
+    "book": "Summer of Blood: The Peasants’ Revolt of 1381",
+    "lookups": 1
+  },
+  {
+    "word": "exegesis",
+    "pos": "noun",
+    "definition": "Critical explanation or interpretation of a text, especially of scripture.",
+    "origin": "Greek exegesis, from exegeisthai 'to interpret', from ex- 'out' + hegeisthai 'to lead'",
+    "book": "Powers and Thrones: A New History of the Middle Ages",
+    "lookups": 1
+  },
+  {
+    "word": "exigency",
+    "pos": "noun",
+    "definition": "An urgent need or demand; a situation requiring immediate action; a pressing necessity.",
+    "origin": "Latin exigentia, from exigere 'to require', from ex- 'thoroughly' + agere 'to do'",
+    "book": "Polity Agent",
+    "lookups": 1
+  },
+  {
+    "word": "exogamy",
+    "pos": "noun",
+    "definition": "The custom of marrying outside a community, clan, or tribe; marriage to a person from outside one's group.",
+    "origin": "Greek exo 'outside' + gamos 'marriage'",
+    "book": "Trade of Queens",
+    "lookups": 1
+  },
+  {
+    "word": "expiate",
+    "pos": "verb",
+    "definition": "To make amends for guilt or wrongdoing; to atone for a sin or crime.",
+    "origin": "Latin expiare 'to make atonement for', from ex- 'out' + piare 'to appease', from pius 'pious'",
+    "book": "Contest (The Stork Tower Book 6)",
+    "lookups": 1
+  },
+  {
+    "word": "exult",
+    "pos": "verb",
+    "definition": "To feel or show triumphant elation or jubilation; to rejoice greatly at a success.",
+    "origin": "Latin exultare, from exsilire 'to leap up', from ex- 'out' + salire 'to leap'",
+    "book": "The Player of Games",
+    "lookups": 1
+  },
+  {
+    "word": "facetious",
+    "pos": "adjective",
+    "definition": "Treating serious issues with inappropriate humour; flippant; meant to be funny at an unsuitable moment.",
+    "origin": "French facétieux, from facétie, from Latin facetia 'jest', from facetus 'witty'",
+    "book": "Mark of the Fool 3: A Progression Fantasy Epic",
+    "lookups": 1
+  },
+  {
+    "word": "fardel",
+    "pos": "noun",
+    "definition": "(Archaic) A bundle or burden; a pack carried on the back; something that encumbers.",
+    "origin": "Old French fardel 'little bundle', diminutive of farde 'burden', from Arabic fardah 'bale'",
+    "book": "X, Y & Z: The Real Story of How Enigma Was Broken",
+    "lookups": 1
+  },
+  {
+    "word": "fatuous",
+    "pos": "adjective",
+    "definition": "Silly and pointless; showing a lack of intelligence; vacuous and complacent.",
+    "origin": "Latin fatuus 'foolish', of unknown ultimate origin",
+    "book": "Succubus 7 (Fairy Tale): A LitRPG Series",
+    "lookups": 1
+  },
+  {
+    "word": "feckless",
+    "pos": "adjective",
+    "definition": "Lacking initiative or strength of character; irresponsible; helpless and incompetent.",
+    "origin": "Scottish feck (short for effect) + -less; originally meaning 'ineffective'",
+    "book": "The Scarab Path",
+    "lookups": 2
+  },
+  {
+    "word": "fecund",
+    "pos": "adjective",
+    "definition": "Producing or capable of producing an abundance of offspring or new growth; fertile; highly productive.",
+    "origin": "Latin fecundus 'fruitful, fertile', from fetus 'offspring'",
+    "book": "Immortal Swordslinger",
+    "lookups": 2
+  },
+  {
+    "word": "fescue",
+    "pos": "noun",
+    "definition": "A type of fine-leaved grass used in lawns and pastures; formerly a pointer used for indicating letters.",
+    "origin": "Old French festu, from Latin festuca 'stalk, straw'",
+    "book": "Erotic Classics I: Kama Sutra, The Memoirs of Fanny Hill and Others",
+    "lookups": 1
+  },
+  {
+    "word": "firkin",
+    "pos": "noun",
+    "definition": "A small cask used for liquids or butter; a unit of liquid measure (typically a quarter of a barrel).",
+    "origin": "Probably from Dutch vierdekijn 'little fourth part', from vierde 'fourth'",
+    "book": "Viking Sword",
+    "lookups": 1
+  },
+  {
+    "word": "foment",
+    "pos": "verb",
+    "definition": "To instigate or stir up unrest or rebellion; to apply warm water or medicated lotion to.",
+    "origin": "Latin fomentare, from fomentum 'poultice, lotion', from fovere 'to heat, cherish'",
+    "book": "Summer of Blood: The Peasants’ Revolt of 1381",
+    "lookups": 1
+  },
+  {
+    "word": "fortitude",
+    "pos": "noun",
+    "definition": "Courage in pain or adversity; mental and emotional strength in facing difficulty.",
+    "origin": "Latin fortitudo, from fortis 'strong'",
+    "book": "Turn the Ship Around!: A True Story of Turning Followers into Leaders",
+    "lookups": 1
+  },
+  {
+    "word": "frangible",
+    "pos": "adjective",
+    "definition": "Fragile; easily broken; liable to shatter or break apart on impact.",
+    "origin": "Old French frangible, from Latin frangere 'to break'",
+    "book": "Critical Mass: A Novel",
+    "lookups": 1
+  },
+  {
+    "word": "fugue",
+    "pos": "noun",
+    "definition": "A musical composition in which a theme is introduced and then developed by successive voices; a state of dissociation or amnesia.",
+    "origin": "Italian fuga 'flight', from Latin fuga, from fugere 'to flee'",
+    "book": "Asher, Neal - [Cormac 03]",
+    "lookups": 1
+  },
+  {
+    "word": "fulcrum",
+    "pos": "noun",
+    "definition": "The point on which a lever rests or is supported; the thing that plays a central or essential role.",
+    "origin": "Latin fulcrum 'bedpost, support', from fulcire 'to prop up'",
+    "book": "Invisible Sun",
+    "lookups": 1
+  },
+  {
+    "word": "furtively",
+    "pos": "adverb",
+    "definition": "In a way that attempts to avoid notice; slyly; with a secret or guarded manner.",
+    "origin": "Latin furtivus 'stolen, secret', from furtum 'theft', from fur 'thief'",
+    "book": "Blood of the Mantis",
+    "lookups": 1
+  },
+  {
+    "word": "gambol",
+    "pos": "verb/noun",
+    "definition": "To run or jump about playfully; to frisk about; a playful frolic.",
+    "origin": "Old French gambader, from Italian gambata 'a trip', from gamba 'leg'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "gamine",
+    "pos": "adjective/noun",
+    "definition": "(Of a girl or woman) having a mischievous, boyish charm; a girl with such characteristics.",
+    "origin": "French gamine, feminine of gamin 'street urchin', of uncertain origin",
+    "book": "Empire Games Series, Book 1",
+    "lookups": 1
+  },
+  {
+    "word": "gauche",
+    "pos": "adjective",
+    "definition": "Lacking ease or grace; unsophisticated and socially awkward; tactless.",
+    "origin": "French gauche 'left (hand)', from gaucher 'to turn aside', implying clumsiness",
+    "book": "Salute the Dark",
+    "lookups": 1
+  },
+  {
+    "word": "gelid",
+    "pos": "adjective",
+    "definition": "Icy cold; extremely cold; of or relating to frost and ice.",
+    "origin": "Latin gelidus 'icy cold', from gelu 'frost, ice'",
+    "book": "Liching Hour: Liches Get Stitches Book 2",
+    "lookups": 1
+  },
+  {
+    "word": "geodesic",
+    "pos": "adjective",
+    "definition": "Relating to or denoting the shortest possible line between two points on a sphere or curved surface.",
+    "origin": "Greek geodaisia, from ge 'earth' + daiesthai 'to divide'",
+    "book": "The Fifth Season",
+    "lookups": 1
+  },
+  {
+    "word": "gerontology",
+    "pos": "noun",
+    "definition": "The scientific study of old age, the process of ageing, and the problems of the elderly.",
+    "origin": "Greek geron, gerontos 'old man' + logos 'study'",
+    "book": "Heaven's River",
+    "lookups": 1
+  },
+  {
+    "word": "glabella",
+    "pos": "noun",
+    "definition": "The smooth part of the forehead above and between the eyebrows; a flat bone between the brows.",
+    "origin": "Latin glabellus 'smooth', diminutive of glaber 'hairless'",
+    "book": "Defiance of the Fall 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "glaive",
+    "pos": "noun",
+    "definition": "A long sword; a weapon consisting of a large blade fixed to a handle, used in medieval times.",
+    "origin": "Old French glaive 'sword, lance', from Latin gladius 'sword'",
+    "book": "Rise of the Weakest Summoner: Volume IX",
+    "lookups": 1
+  },
+  {
+    "word": "gossamer",
+    "pos": "noun/adjective",
+    "definition": "A fine, filmy substance of cobwebs found floating in calm air; anything light, delicate, and insubstantial.",
+    "origin": "Middle English gossomer, possibly from goose + summer, referring to threads seen in autumn ('goose summer')",
+    "book": "Beastborne: Exiled Lands: An Epic Portal Fantasy LitRPG Saga (Beastborne Chronicles, Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "gumption",
+    "pos": "noun",
+    "definition": "Shrewd or spirited initiative and resourcefulness; courage and determination.",
+    "origin": "Scottish and Northern English, of unknown origin; first recorded in 18th century",
+    "book": "Change (The Stork Tower Book 3)",
+    "lookups": 1
+  },
+  {
+    "word": "hagiography",
+    "pos": "noun",
+    "definition": "The writing of the lives of saints; a biography that idealises or idolises its subject.",
+    "origin": "Greek hagiographia, from hagios 'holy' + graphia 'writing'",
+    "book": "The Anglo-Saxons: A History of the Beginnings of England: 400 – 1066",
+    "lookups": 1
+  },
+  {
+    "word": "harbinger",
+    "pos": "noun",
+    "definition": "A person or thing that announces or signals the approach of another; a forerunner.",
+    "origin": "Old French herberge 'lodgings', of Germanic origin; originally a herald who went ahead to arrange lodgings",
+    "book": "Wolf in the Void, The Grand Game, Book 5: A Dark Fantasy LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "harridan",
+    "pos": "noun",
+    "definition": "A strict, bossy, or belligerent old woman; a scolding unpleasant woman.",
+    "origin": "Possibly from French haridelle 'worn-out horse, jade', of unknown origin",
+    "book": "Dark Skies",
+    "lookups": 1
+  },
+  {
+    "word": "haversack",
+    "pos": "noun",
+    "definition": "A canvas bag worn slung over the shoulder, used for carrying food or supplies.",
+    "origin": "German Habersack 'oat sack', from Haber 'oats' + Sack 'sack'",
+    "book": "Pirata 01 - The Black Flag",
+    "lookups": 1
+  },
+  {
+    "word": "hectoring",
+    "pos": "adjective/verb",
+    "definition": "Talking in a bullying, domineering way; using intimidation and bluster.",
+    "origin": "From Hector, the Trojan warrior; later applied to London street bullies in the 17th century",
+    "book": "Revolution 01 - Young Bloods",
+    "lookups": 1
+  },
+  {
+    "word": "hegemony",
+    "pos": "noun",
+    "definition": "Leadership or dominance, especially of one country or group over others; political or social supremacy.",
+    "origin": "Greek hegemonia, from hegemon 'leader', from hegeisthai 'to lead'",
+    "book": "He Who Fights with Monsters: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "hierophant",
+    "pos": "noun",
+    "definition": "A person who interprets sacred mysteries; a chief priest in ancient Greek religion; an advocate of a cause.",
+    "origin": "Greek hierophantes, from hieros 'sacred' + phainein 'to reveal'",
+    "book": "He Who Fights with Monsters 7: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "histrionic",
+    "pos": "adjective",
+    "definition": "Overly theatrical or melodramatic; excessively dramatic in behaviour or speech.",
+    "origin": "Latin histrionicus, from histrio 'actor', of Etruscan origin",
+    "book": "Ashes of Man",
+    "lookups": 1
+  },
+  {
+    "word": "hoi polloi",
+    "pos": "noun",
+    "definition": "The masses; the common people; the majority of ordinary people.",
+    "origin": "Greek hoi polloi 'the many', from hoi 'the' + polloi 'many, plural of polus'",
+    "book": "The Sea Watch",
+    "lookups": 1
+  },
+  {
+    "word": "homonyms",
+    "pos": "noun",
+    "definition": "Words having the same pronunciation but different meanings and origins (e.g. bear/bare).",
+    "origin": "Greek homonumos, from homos 'same' + onoma 'name'",
+    "book": "Skirmish",
+    "lookups": 1
+  },
+  {
+    "word": "homophones",
+    "pos": "noun",
+    "definition": "Words that are pronounced the same but differ in meaning and spelling (e.g. flour/flower).",
+    "origin": "Greek homos 'same' + phone 'sound'",
+    "book": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+    "lookups": 1
+  },
+  {
+    "word": "hypnagogic",
+    "pos": "adjective",
+    "definition": "Relating to the state immediately before falling asleep; denoting vivid dreamlike hallucinations.",
+    "origin": "Greek hypnos 'sleep' + agogos 'leading', from agein 'to lead'",
+    "book": "Neuromancer",
+    "lookups": 1
+  },
+  {
+    "word": "hypocaust",
+    "pos": "noun",
+    "definition": "An underfloor heating system used in ancient Roman buildings, with hot air circulating under raised floors.",
+    "origin": "Latin hypocaustum, from Greek hypokauston, from hypo 'under' + kaiein 'to burn'",
+    "book": "Cato 15 - Invictus",
+    "lookups": 1
+  },
+  {
+    "word": "idiopathic",
+    "pos": "adjective",
+    "definition": "(Of a disease or condition) arising spontaneously or from an obscure or unknown cause.",
+    "origin": "Greek idiopatheia, from idios 'own, peculiar' + pathos 'suffering'",
+    "book": "Words of Radiance",
+    "lookups": 1
+  },
+  {
+    "word": "ignominy",
+    "pos": "noun",
+    "definition": "Public shame or disgrace; loss of one's reputation; dishonourable conduct.",
+    "origin": "Latin ignominia, from in- 'without' + nomen 'name' (i.e. without good name)",
+    "book": "The Traitor",
+    "lookups": 1
+  },
+  {
+    "word": "illicit",
+    "pos": "adjective",
+    "definition": "Forbidden by law, rules, or custom; not permitted; unlawful.",
+    "origin": "Latin illicitus, from in- 'not' + licitus 'allowed', from licere 'to be lawful'",
+    "book": "X, Y & Z: The Real Story of How Enigma Was Broken",
+    "lookups": 1
+  },
+  {
+    "word": "impetus",
+    "pos": "noun",
+    "definition": "The force or energy with which a body moves; something that encourages a process to develop more quickly.",
+    "origin": "Latin impetus 'attack, force', from impetere 'to assail', from im- 'towards' + petere 'to seek'",
+    "book": "Gridlinked",
+    "lookups": 2
+  },
+  {
+    "word": "impluvium",
+    "pos": "noun",
+    "definition": "A square basin in the floor of an ancient Roman atrium to collect rainwater from the opening above.",
+    "origin": "Latin impluvium, from impluere 'to rain into', from im- 'in' + pluere 'to rain'",
+    "book": "Cato 18 - Traitors of Rome (Eagles of the Empire 18)",
+    "lookups": 1
+  },
+  {
+    "word": "imprimatur",
+    "pos": "noun",
+    "definition": "Official approval; permission granted by the Catholic Church to print a religious work; sanction.",
+    "origin": "Latin imprimatur 'let it be printed', from imprimere 'to imprint', from im- + premere 'to press'",
+    "book": "Chip War: The Fight for the World's Most Critical Technology",
+    "lookups": 2
+  },
+  {
+    "word": "imprudent",
+    "pos": "adjective",
+    "definition": "Not showing care for the consequences of an action; rash; not exercising good judgement.",
+    "origin": "Latin imprudens, from in- 'not' + prudens 'prudent, foreseeing'",
+    "book": "Rhythm of War (STORMLIGHT ARCHIVE)",
+    "lookups": 1
+  },
+  {
+    "word": "inadvertent",
+    "pos": "adjective",
+    "definition": "Not resulting from or achieved through deliberate planning; accidental; unintentional.",
+    "origin": "Latin inadvertens, from in- 'not' + advertere 'to turn the mind to'",
+    "book": "Empire Games Series, Book 1",
+    "lookups": 1
+  },
+  {
+    "word": "incandescent",
+    "pos": "adjective",
+    "definition": "Emitting light as a result of being heated; full of strong emotion; extremely passionate.",
+    "origin": "Latin incandescere 'to become red-hot', from in- 'into' + candescere 'to begin to glow'",
+    "book": "Asher, Neal - [Cormac 03]",
+    "lookups": 1
+  },
+  {
+    "word": "incongruous",
+    "pos": "adjective",
+    "definition": "Not in harmony or keeping with the surroundings or other aspects of something; out of place.",
+    "origin": "Latin incongruus, from in- 'not' + congruere 'to agree, meet together'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "indomitable",
+    "pos": "adjective",
+    "definition": "Not to be subdued or overcome; not easily discouraged; unconquerable and resolute.",
+    "origin": "Latin indomitabilis, from in- 'not' + domitare 'to tame'",
+    "book": "Defiance of the Fall 2: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "inexorable",
+    "pos": "adjective",
+    "definition": "Impossible to stop or prevent; not to be persuaded or moved by entreaty; relentless.",
+    "origin": "Latin inexorabilis, from in- 'not' + exorabilis 'able to be entreated', from exorare 'to entreat'",
+    "book": "He Who Fights with Monsters: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "infamous",
+    "pos": "adjective",
+    "definition": "Well known for some bad quality or deed; notoriously evil; wicked; deserving of infamy.",
+    "origin": "Latin infamis, from in- 'not' + fama 'fame, reputation'",
+    "book": "Viking Raid",
+    "lookups": 1
+  },
+  {
+    "word": "infecund",
+    "pos": "adjective",
+    "definition": "Not producing offspring; barren; not fertile; unproductive.",
+    "origin": "Latin infecundus, from in- 'not' + fecundus 'fertile, fruitful'",
+    "book": "Hero",
+    "lookups": 1
+  },
+  {
+    "word": "infirmity",
+    "pos": "noun",
+    "definition": "Physical or mental weakness; an ailment or malady; lack of strength or vigour.",
+    "origin": "Latin infirmitas, from infirmus 'not firm, weak', from in- 'not' + firmus 'firm'",
+    "book": "Reborn (The Jade Phoenix Saga #1) - A Cultivation LitRPG Series",
+    "lookups": 1
+  },
+  {
+    "word": "ingenue",
+    "pos": "noun",
+    "definition": "An innocent, artless young woman, especially as a type of character in a play or film.",
+    "origin": "French ingénue, feminine of ingénu 'ingenuous', from Latin ingenuus 'native, freeborn, frank'",
+    "book": "Revolution Business",
+    "lookups": 1
+  },
+  {
+    "word": "iniquity",
+    "pos": "noun",
+    "definition": "Immoral or grossly unfair behaviour; wickedness; a wicked act or thing.",
+    "origin": "Latin iniquitas, from iniquus 'unjust', from in- 'not' + aequus 'equal'",
+    "book": "Triumph",
+    "lookups": 3
+  },
+  {
+    "word": "inscrutable",
+    "pos": "adjective",
+    "definition": "Impossible to understand or interpret; not readily investigated or comprehended.",
+    "origin": "Late Latin inscrutabilis, from in- 'not' + scrutari 'to examine', from scruta 'rubbish'",
+    "book": "Defiance of the Fall 7",
+    "lookups": 1
+  },
+  {
+    "word": "insidious",
+    "pos": "adjective",
+    "definition": "Proceeding in a gradual, subtle way but with harmful effects; treacherous; slyly harmful.",
+    "origin": "Latin insidiosus 'cunning, deceitful', from insidiae 'an ambush', from insidere 'to sit in or on'",
+    "book": "Backyard Dungeon 8",
+    "lookups": 1
+  },
+  {
+    "word": "insouciance",
+    "pos": "noun",
+    "definition": "Casual lack of concern; indifference; a relaxed and carefree manner.",
+    "origin": "French insouciance, from insouciant, from in- 'not' + souciant 'worrying', from soucier 'to care'",
+    "book": "Cato 16 - Day of the Caesars",
+    "lookups": 2
+  },
+  {
+    "word": "internecine",
+    "pos": "adjective",
+    "definition": "Destructive to both sides in a conflict; (of conflict) occurring within a group or organisation.",
+    "origin": "Latin internecinus, from internecare 'to slaughter', from inter 'among' + necare 'to kill'",
+    "book": "Viking Warrior",
+    "lookups": 2
+  },
+  {
+    "word": "interregnum",
+    "pos": "noun",
+    "definition": "A period between successive reigns or governments; a gap or pause in a sequence.",
+    "origin": "Latin interregnum, from inter 'between' + regnum 'reign', from rex 'king'",
+    "book": "The Complete Broken Empire Trilogy Omnibus",
+    "lookups": 1
+  },
+  {
+    "word": "interstice",
+    "pos": "noun",
+    "definition": "A small or narrow space between things closely set; a gap or crack in a surface.",
+    "origin": "Latin interstitium, from inter 'between' + sistere 'to stand'",
+    "book": "He Who Fights With Monsters 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "intransigent",
+    "pos": "adjective",
+    "definition": "Unwilling or refusing to change one's views or to agree about something; stubborn and uncompromising.",
+    "origin": "French intransigeant, from Spanish los intransigentes, from Latin intransigentem, from in- 'not' + transigere 'to come to agreement'",
+    "book": "Consider Phlebas",
+    "lookups": 1
+  },
+  {
+    "word": "intrathecal",
+    "pos": "adjective",
+    "definition": "(Medicine) introduced into or occurring in the space under the arachnoid membrane of the brain or spinal cord.",
+    "origin": "Latin intra 'within' + Greek theke 'case, sheath'",
+    "book": "Charles Stross - Laundry Files 01",
+    "lookups": 1
+  },
+  {
+    "word": "irreverence",
+    "pos": "noun",
+    "definition": "A lack of respect for people or things that are generally taken seriously; disrespect.",
+    "origin": "Latin irreverentia, from in- 'not' + reverentia 'reverence'",
+    "book": "Lolth's Warrior",
+    "lookups": 1
+  },
+  {
+    "word": "isoptera",
+    "pos": "noun",
+    "definition": "An order of social insects comprising termites; the termite order in entomology.",
+    "origin": "Greek isos 'equal' + pteron 'wing', as both pairs of wings are equal in size",
+    "book": "The Primal Hunter 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "isthmus",
+    "pos": "noun",
+    "definition": "A narrow strip of land with sea on each side, connecting two larger areas of land.",
+    "origin": "Latin isthmus, from Greek isthmos 'neck of land'",
+    "book": "Empire Games Series, Book 1",
+    "lookups": 1
+  },
+  {
+    "word": "itinerant",
+    "pos": "adjective/noun",
+    "definition": "Travelling from place to place; a person who travels from place to place for work.",
+    "origin": "Latin itinerantem, from itinerari 'to travel', from iter 'journey'",
+    "book": "The Merchants’ War",
+    "lookups": 1
+  },
+  {
+    "word": "jaded",
+    "pos": "adjective",
+    "definition": "Tired, bored, or lacking enthusiasm, typically after having too much of something.",
+    "origin": "From jade (an inferior or worn-out horse), of unknown origin; past participle used adjectivally",
+    "book": "Ex-Superheroes: A Superhero Harem Series",
+    "lookups": 1
+  },
+  {
+    "word": "jalopy",
+    "pos": "noun",
+    "definition": "An old, dilapidated motor vehicle in poor condition.",
+    "origin": "Origin unknown; American English, early 20th century; possibly from Jalapa, Mexico",
+    "book": "Chip War: The Fight for the World's Most Critical Technology",
+    "lookups": 1
+  },
+  {
+    "word": "jodhpurs",
+    "pos": "noun",
+    "definition": "Full-length trousers worn for horse riding, fitting closely from the knee to the ankle.",
+    "origin": "From Jodhpur, a city in Rajasthan, India, where similar breeches were worn",
+    "book": "Ashes of Man",
+    "lookups": 1
+  },
+  {
+    "word": "jovian",
+    "pos": "adjective",
+    "definition": "Relating to the planet Jupiter or resembling Jupiter; of enormous scale or power.",
+    "origin": "Latin Jovianus, from Jovis/Jupiter, the Roman king of the gods",
+    "book": "For We Are Many (Bobiverse Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "ken",
+    "pos": "noun/verb",
+    "definition": "One's range of knowledge or sight; to know or recognise (chiefly Scottish and Northern English).",
+    "origin": "Old English cennan 'to make known', of Germanic origin; related to Dutch and German kennen",
+    "book": "The Fourth Consort",
+    "lookups": 1
+  },
+  {
+    "word": "kerchief",
+    "pos": "noun",
+    "definition": "A piece of fabric used to cover the head or neck; a handkerchief.",
+    "origin": "Old French couvrechief, from couvrir 'to cover' + chef 'head'",
+    "book": "Words of Radiance",
+    "lookups": 1
+  },
+  {
+    "word": "knell",
+    "pos": "noun/verb",
+    "definition": "The sound of a bell, especially when rung solemnly at a death or funeral; a sound foretelling doom.",
+    "origin": "Old English cnyll (noun), cnyllan (verb), of West Germanic origin",
+    "book": "Disquiet Gods",
+    "lookups": 1
+  },
+  {
+    "word": "kobold",
+    "pos": "noun",
+    "definition": "In German folklore, a spirit or goblin that haunts mines or underground places.",
+    "origin": "German Kobold 'goblin', of unknown ultimate origin; related to cobalt (named after troublesome kobolds)",
+    "book": "Shadowcroft Academy For Dungeons: Year Three",
+    "lookups": 1
+  },
+  {
+    "word": "lackadaisical",
+    "pos": "adjective",
+    "definition": "Lacking enthusiasm and determination; carelessly lazy and indifferent.",
+    "origin": "From alack-a-day (an expression of lamentation) + -ical; 18th century",
+    "book": "Defiance of the Fall 10: A LitRPG Adventure",
+    "lookups": 3
+  },
+  {
+    "word": "lamasery",
+    "pos": "noun",
+    "definition": "A monastery of Tibetan Buddhist monks (lamas); a Buddhist monastic community.",
+    "origin": "French lamaserie, from lama 'Tibetan Buddhist monk' (Tibetan bla-ma) + -serie suffix",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "licentious",
+    "pos": "adjective",
+    "definition": "Promiscuous and unprincipled in sexual matters; morally unrestrained; lacking moral discipline.",
+    "origin": "Latin licentiosus, from licentia 'freedom, licence', from licere 'to be allowed'",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "liege",
+    "pos": "noun/adjective",
+    "definition": "A feudal lord or superior; entitled to allegiance or service; loyal and faithful.",
+    "origin": "Old French liege 'free', from medieval Latin laeticus, of Germanic origin",
+    "book": "The Path of Ascension 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "lignin",
+    "pos": "noun",
+    "definition": "A complex organic polymer forming the structural material of plant cell walls, giving wood its rigidity.",
+    "origin": "Latin lignum 'wood' + -in chemical suffix",
+    "book": "Voidknight Ascension 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "loam",
+    "pos": "noun",
+    "definition": "A fertile soil of clay and sand with organic matter; a mixture of sand, clay, and organic material.",
+    "origin": "Old English lam 'clay', of Germanic origin; related to lime",
+    "book": "Mark of the Fool 3: A Progression Fantasy Epic",
+    "lookups": 1
+  },
+  {
+    "word": "locum",
+    "pos": "noun",
+    "definition": "A person who temporarily stands in for a doctor, vicar, or other professional.",
+    "origin": "Shortened from Latin locum tenens 'holding the place', from locus 'place' + tenere 'to hold'",
+    "book": "Rise of the Weakest Summoner: Volume VIII",
+    "lookups": 1
+  },
+  {
+    "word": "magus",
+    "pos": "noun",
+    "definition": "A member of a priestly caste of ancient Persia; a sorcerer; one of the Magi (the biblical Wise Men).",
+    "origin": "Latin magus, from Greek magos, from Old Persian maguš 'magician, member of priestly caste'",
+    "book": "Empire of Silence",
+    "lookups": 1
+  },
+  {
+    "word": "majordomo",
+    "pos": "noun",
+    "definition": "The chief steward of a large household; a person who manages the affairs of a household or person.",
+    "origin": "Spanish mayordomo and Italian maggiordomo, from medieval Latin major domus 'chief of the house'",
+    "book": "The Sea Watch",
+    "lookups": 1
+  },
+  {
+    "word": "malachite",
+    "pos": "noun",
+    "definition": "A bright green mineral consisting of copper carbonate hydroxide, used as an ornamental stone.",
+    "origin": "Latin malachites, from Greek malachites lithos 'mallow stone', from malache 'mallow' (for its colour)",
+    "book": "Gridlinked",
+    "lookups": 1
+  },
+  {
+    "word": "malefactor",
+    "pos": "noun",
+    "definition": "A person who commits a crime or does evil; a wrongdoer.",
+    "origin": "Latin malefactor, from malefacere 'to do evil', from male 'badly' + facere 'to do'",
+    "book": "The Primal Hunter 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "malevolence",
+    "pos": "noun",
+    "definition": "The state or condition of wishing evil or harm to another; ill will; spite.",
+    "origin": "Latin malevolentia, from malevolens, from male 'badly' + volens 'wishing', from velle 'to wish'",
+    "book": "Viking Legend",
+    "lookups": 1
+  },
+  {
+    "word": "malodorous",
+    "pos": "adjective",
+    "definition": "Smelling very unpleasant; having a bad or offensive odour.",
+    "origin": "Latin male 'badly' + odorus 'having a smell', from odor 'smell'",
+    "book": "Words of Radiance",
+    "lookups": 1
+  },
+  {
+    "word": "manacle",
+    "pos": "noun/verb",
+    "definition": "A metal band, chain, or shackle fastened around a person's hands or ankles; to restrain.",
+    "origin": "Old French manicle 'handcuff', from Latin manicula 'little hand', from manus 'hand'",
+    "book": "Polity Agent",
+    "lookups": 1
+  },
+  {
+    "word": "mangonels",
+    "pos": "noun",
+    "definition": "Medieval military catapults used to throw stones at fortifications.",
+    "origin": "Old French mangonel, from medieval Latin manganellus, ultimately from Greek manganon 'axis of a pulley'",
+    "book": "The Templars",
+    "lookups": 1
+  },
+  {
+    "word": "maquis",
+    "pos": "noun",
+    "definition": "Dense scrubland characteristic of Mediterranean coastal regions; the French resistance fighters in WWII.",
+    "origin": "French maquis 'thicket', from Corsican Italian macchia, from Latin macula 'spot, mesh'",
+    "book": "Revolution 01 - Young Bloods",
+    "lookups": 1
+  },
+  {
+    "word": "meager",
+    "pos": "adjective",
+    "definition": "(Of something) lacking in quantity or quality; thin and lacking flesh; scanty and inadequate.",
+    "origin": "Old French megre, from Latin macer 'lean, meagre'",
+    "book": "Defiance of the Fall 8: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "melee",
+    "pos": "noun",
+    "definition": "A confused mix of people; a disorganised and noisy combination; a tumultuous fight.",
+    "origin": "French mêlée, from Old French meslee, from mesler 'to mix', from Latin miscere 'to mix'",
+    "book": "Mark of the Fool 4: A Progression Fantasy Epic",
+    "lookups": 1
+  },
+  {
+    "word": "mercurial",
+    "pos": "adjective",
+    "definition": "Subject to sudden or unpredictable changes of mood; quick and changeable in temperament.",
+    "origin": "Latin Mercurialis, relating to Mercury, the swift-footed messenger god",
+    "book": "The Memory of Souls",
+    "lookups": 1
+  },
+  {
+    "word": "metatarsals",
+    "pos": "noun",
+    "definition": "The group of five long bones in the foot between the ankle and the toes.",
+    "origin": "Greek meta 'after, beyond' + tarsos 'flat of the foot'",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "mettle",
+    "pos": "noun",
+    "definition": "A person's ability to cope well with difficulties; spirit and resilience; strength of character.",
+    "origin": "A variant of metal, developed from the idea of the quality or temper of a metal",
+    "book": "Life Reset: A LitRPG Novel (New Era Online Book 1)",
+    "lookups": 1
+  },
+  {
+    "word": "miasma",
+    "pos": "noun",
+    "definition": "A highly unpleasant or unhealthy smell or vapour; an oppressive or unpleasant atmosphere.",
+    "origin": "Greek miasma 'pollution, defilement', from miainein 'to pollute'",
+    "book": "Polity Agent",
+    "lookups": 2
+  },
+  {
+    "word": "mimicry",
+    "pos": "noun",
+    "definition": "The action or skill of imitating another; (Biology) the resemblance of an organism to another species.",
+    "origin": "Greek mimikos, from mimos 'mime', from mime 'actor'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "minuscule",
+    "pos": "adjective",
+    "definition": "Extremely small and tiny; relating to a small cursive script developed in the 7th–9th centuries AD.",
+    "origin": "French minuscule, from Latin minuscula (littera) 'somewhat small (letter)', from minus 'less'",
+    "book": "Voidknight Ascension: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "mnemonic",
+    "pos": "noun/adjective",
+    "definition": "A pattern, idea, or rhyme used as a memory aid; relating to or aiding memory.",
+    "origin": "Greek mnemonikos 'of memory', from mnemon 'mindful', from mimneskesthai 'to remember'",
+    "book": "The Family Trade",
+    "lookups": 1
+  },
+  {
+    "word": "moribund",
+    "pos": "adjective",
+    "definition": "(Of a person) at the point of death; (of a thing) in terminal decline; near the end of its existence.",
+    "origin": "Latin moribundus 'dying', from mori 'to die'",
+    "book": "The Unspoken Name",
+    "lookups": 3
+  },
+  {
+    "word": "morose",
+    "pos": "adjective",
+    "definition": "Sullen and ill-tempered; gloomy and unsociable; not inclined to speak or be friendly.",
+    "origin": "Latin morosus 'peevish, hard to please', from mos 'manner, custom'",
+    "book": "The Path of Ascension 4: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "mortification",
+    "pos": "noun",
+    "definition": "Great embarrassment or shame; in religion, the practice of ascetic discipline for moral improvement.",
+    "origin": "Late Latin mortificatio, from mortificare 'to kill, subdue', from mors 'death' + facere 'to make'",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "munificent",
+    "pos": "adjective",
+    "definition": "More generous than is usual or necessary; lavishly generous; bountiful.",
+    "origin": "Latin munificentia, from munificus 'generous', from munus 'gift' + facere 'to make'",
+    "book": "The War on the West",
+    "lookups": 1
+  },
+  {
+    "word": "mycorrhiza",
+    "pos": "noun",
+    "definition": "A symbiotic association between a fungus and the roots of a plant, aiding nutrient absorption.",
+    "origin": "Greek mykes 'fungus' + rhiza 'root'",
+    "book": "The Primal Hunter 2: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "nacelle",
+    "pos": "noun",
+    "definition": "A streamlined casing on an aircraft, housing an engine; the basket of a hot air balloon.",
+    "origin": "French nacelle, from Late Latin navicella 'small ship', diminutive of Latin navis 'ship'",
+    "book": "Asher, Neal - [Cormac 03]",
+    "lookups": 1
+  },
+  {
+    "word": "nascent",
+    "pos": "adjective",
+    "definition": "Just coming into existence and beginning to develop; embryonic; emerging.",
+    "origin": "Latin nascens, present participle of nasci 'to be born'",
+    "book": "He Who Fights with Monsters 10: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "neoliberalism",
+    "pos": "noun",
+    "definition": "A political and economic policy promoting free-market capitalism, deregulation, and reduced government spending.",
+    "origin": "Greek neos 'new' + French libéralisme, from Latin liberalis 'relating to freedom'",
+    "book": "The Capitalist Manifesto",
+    "lookups": 1
+  },
+  {
+    "word": "neonate",
+    "pos": "noun",
+    "definition": "A newborn child or other mammal, especially in the first four weeks of life.",
+    "origin": "Latin neonatus, from Greek neos 'new' + Latin natus 'born', from nasci 'to be born'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "neophyte",
+    "pos": "noun",
+    "definition": "A person who is new to a subject, skill, or belief; a new convert; a novice.",
+    "origin": "Greek neophutos 'newly planted', from neos 'new' + phuton 'plant', from phuein 'to bring forth'",
+    "book": "Beastborne: Exiled Lands: An Epic Portal Fantasy LitRPG Saga (Beastborne Chronicles, Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "nettled",
+    "pos": "adjective",
+    "definition": "Irritated or annoyed; provoked or put out by something.",
+    "origin": "Old English netele 'nettle' (the stinging plant); 'to nettle' meaning to sting or irritate",
+    "book": "Mark of the Fool 2",
+    "lookups": 1
+  },
+  {
+    "word": "nomological",
+    "pos": "adjective",
+    "definition": "Relating to the laws or principles governing natural phenomena; of or pertaining to nomology.",
+    "origin": "Greek nomos 'law' + logos 'study'",
+    "book": "The Primal Hunter 11: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "non sequitur",
+    "pos": "noun",
+    "definition": "A conclusion or statement that does not logically follow from the previous argument or statement.",
+    "origin": "Latin non sequitur 'it does not follow', from non 'not' + sequitur 'it follows', from sequi 'to follow'",
+    "book": "Shadowcroft Academy For Dungeons: Year One",
+    "lookups": 1
+  },
+  {
+    "word": "nubile",
+    "pos": "adjective",
+    "definition": "(Of a young woman) sexually mature and attractive; suitable for marriage.",
+    "origin": "Latin nubilis, from nubere 'to marry' (literally 'to veil oneself')",
+    "book": "He Who Fights with Monsters 2: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "obduracy",
+    "pos": "noun",
+    "definition": "Stubbornness and refusal to change one's attitude; hardhearted persistence.",
+    "origin": "Latin obdurare 'to harden', from ob- 'against' + durare 'to harden', from durus 'hard'",
+    "book": "Defiance of the Fall 5: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "obstreperous",
+    "pos": "adjective",
+    "definition": "Noisy and difficult to control; loudly and stubbornly defiant; unruly.",
+    "origin": "Latin obstreperus, from obstrepere 'to make a noise at', from ob- 'against' + strepere 'to make a noise'",
+    "book": "He Who Fights with Monsters 10: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "obtuse",
+    "pos": "adjective",
+    "definition": "Annoyingly insensitive or slow to understand; (of an angle) between 90 and 180 degrees.",
+    "origin": "Latin obtusus 'blunted', past participle of obtundere 'to blunt', from ob- 'against' + tundere 'to beat'",
+    "book": "Discount Dan: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "odium",
+    "pos": "noun",
+    "definition": "General or widespread hatred or disgust directed towards someone as a result of their actions.",
+    "origin": "Latin odium 'hatred', from odi 'I hate'",
+    "book": "Wind and Truth: Book Five of the Stormlight Archive (The Stormlight Archive, 5)",
+    "lookups": 1
+  },
+  {
+    "word": "omniscient",
+    "pos": "adjective",
+    "definition": "Knowing everything; having unlimited knowledge or awareness.",
+    "origin": "Medieval Latin omnisciens, from Latin omni- 'all' + sciens 'knowing', from scire 'to know'",
+    "book": "Defiance of the Fall 11: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "onerous",
+    "pos": "adjective",
+    "definition": "Involving an amount of effort and difficulty that is oppressively burdensome.",
+    "origin": "Latin onerosus, from onus 'burden'",
+    "book": "He Who Fights With Monsters 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "ordnance",
+    "pos": "noun",
+    "definition": "Mounted guns; military weapons and ammunition; a branch of the army dealing with such supplies.",
+    "origin": "Old French ordenance, variant of ordinance; originally 'arrangement of military supplies'",
+    "book": "He Who Fights with Monsters 7: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "ordure",
+    "pos": "noun",
+    "definition": "Excrement; dung; foul matter; something morally offensive.",
+    "origin": "Old French ordure, from ord 'foul, dirty', from Latin horridus 'horrible'",
+    "book": "Invader 1-5",
+    "lookups": 1
+  },
+  {
+    "word": "ornery",
+    "pos": "adjective",
+    "definition": "Bad-tempered and combative; (US dialect) stubbornly uncooperative.",
+    "origin": "Altered form of ordinary; the sense of 'common' or 'coarse' led to the pejorative meaning",
+    "book": "Dragon Heart: Land of Magic. LitRPG Wuxia Series: Book 6",
+    "lookups": 2
+  },
+  {
+    "word": "osmotic",
+    "pos": "adjective",
+    "definition": "Relating to osmosis; (figuratively) being assimilated or absorbed gradually and naturally.",
+    "origin": "Greek osmos 'push, impulse', from othein 'to push'",
+    "book": "Darwin's Watch",
+    "lookups": 1
+  },
+  {
+    "word": "ostensibly",
+    "pos": "adverb",
+    "definition": "Apparently or purportedly, but perhaps not actually; as things appear on the surface.",
+    "origin": "Latin ostendere 'to show', from os- 'before' + tendere 'to stretch'",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "oubliette",
+    "pos": "noun",
+    "definition": "A secret dungeon with an opening only at the top, used to imprison or forget people.",
+    "origin": "French oubliette, from oublier 'to forget', from Latin oblitare, from oblivisci 'to forget'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "palanquin",
+    "pos": "noun",
+    "definition": "A covered litter or sedan chair carried on the shoulders of bearers, used historically in Asia.",
+    "origin": "Portuguese palanquim, from Oriya and Hindi palaki, ultimately from Sanskrit palyanka 'bed'",
+    "book": "Triumph",
+    "lookups": 1
+  },
+  {
+    "word": "palatine",
+    "pos": "adjective/noun",
+    "definition": "Relating to a palace; denoting a person having royal privileges; relating to the palate.",
+    "origin": "Latin palatinus 'of the palace', from palatium 'the Palatine Hill' (site of Roman emperors' homes)",
+    "book": "Empire of Silence",
+    "lookups": 1
+  },
+  {
+    "word": "pandemonium",
+    "pos": "noun",
+    "definition": "Wild and noisy disorder or confusion; an utter uproar.",
+    "origin": "Coined by John Milton in Paradise Lost (1667) as the name for the capital of Hell; Greek pan 'all' + daimon 'demon'",
+    "book": "Viking Legend",
+    "lookups": 1
+  },
+  {
+    "word": "panegyric",
+    "pos": "noun",
+    "definition": "A public speech or written text in praise of a person or achievement; lavish praise.",
+    "origin": "Greek panegyrikos 'of public assembly', from panegyris 'public assembly', from pan 'all' + agyris 'assembly'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "paramour",
+    "pos": "noun",
+    "definition": "A lover, especially an illicit or secret one; a person's partner in an adulterous relationship.",
+    "origin": "Old French par amour 'by love', from par 'by' + amour 'love', from Latin amor",
+    "book": "The Warlock 1",
+    "lookups": 1
+  },
+  {
+    "word": "parricide",
+    "pos": "noun",
+    "definition": "The killing of a parent or close relative; a person who commits such an act.",
+    "origin": "Latin parricidium 'the killing of a parent', from pater 'father' + caedere 'to kill'",
+    "book": "The 120 Days of Sodom",
+    "lookups": 1
+  },
+  {
+    "word": "parsimonious",
+    "pos": "adjective",
+    "definition": "Excessively unwilling to spend money or use resources; excessively frugal; stingy.",
+    "origin": "Latin parsimonia 'frugality', from parcere 'to spare'",
+    "book": "The Sea Watch",
+    "lookups": 1
+  },
+  {
+    "word": "penitent",
+    "pos": "adjective/noun",
+    "definition": "Feeling or showing sorrow and regret for having done wrong; a person who repents.",
+    "origin": "Latin paenitens, present participle of paenitere 'to cause to repent'",
+    "book": "He Who Fights with Monsters 7: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "penultimate",
+    "pos": "adjective",
+    "definition": "Last but one in a series; second to last.",
+    "origin": "Latin paenultimus, from paene 'almost' + ultimus 'last'",
+    "book": "Night of the Hunter: Companions Codex, I",
+    "lookups": 2
+  },
+  {
+    "word": "perfidy",
+    "pos": "noun",
+    "definition": "Deceitfulness and untrustworthiness; treachery; an act of betrayal.",
+    "origin": "Latin perfidia, from perfidus 'treacherous', from per 'through' (implying going beyond) + fides 'faith'",
+    "book": "Blood of the Mantis",
+    "lookups": 2
+  },
+  {
+    "word": "periapsis",
+    "pos": "noun",
+    "definition": "The point in an orbit closest to the body being orbited; the opposite of apoapsis.",
+    "origin": "Greek peri 'near, around' + hapsis 'fastening, arch'",
+    "book": "Delta-V",
+    "lookups": 1
+  },
+  {
+    "word": "perihelion",
+    "pos": "noun",
+    "definition": "The point in the orbit of a planet or comet at which it is closest to the sun.",
+    "origin": "Greek peri 'near' + helios 'sun'; coined by Johannes Kepler in the early 17th century",
+    "book": "Network Effect: 5 (The Murderbot Diaries)",
+    "lookups": 1
+  },
+  {
+    "word": "petard",
+    "pos": "noun",
+    "definition": "A small bomb used to blast open a door or gate; (in 'hoist by one's own petard') injured by one's own scheme.",
+    "origin": "French pétard, from péter 'to break wind', from Latin peditum, from pedere 'to break wind'",
+    "book": "Charles Stross - Merchant princes 03",
+    "lookups": 1
+  },
+  {
+    "word": "pewter",
+    "pos": "noun",
+    "definition": "A grey alloy of tin with copper and antimony, formerly made with lead; articles made of this alloy.",
+    "origin": "Old French peutre, of unknown origin; related to Dutch and German pewter cognates",
+    "book": "Creation Mage 9",
+    "lookups": 1
+  },
+  {
+    "word": "phantasmal",
+    "pos": "adjective",
+    "definition": "Relating to or resembling a phantom; spectral; having the character of a phantom.",
+    "origin": "Greek phantasma 'apparition', from phantazein 'to make visible', from phainein 'to show'",
+    "book": "The Primal Hunter 2: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "philanderer",
+    "pos": "noun",
+    "definition": "A man who readily or frequently enters into casual sexual relationships with women.",
+    "origin": "Greek Philandros, a male name meaning 'lover of men'; later applied ironically",
+    "book": "Rise of the Weakest Summoner: Volume VIII",
+    "lookups": 1
+  },
+  {
+    "word": "pismire",
+    "pos": "noun",
+    "definition": "(Archaic) An ant; used as a term of contempt for an insignificant person.",
+    "origin": "Middle English, from Old Norse, from piss + mire 'ant' (perhaps from the ammonia smell of ant nests)",
+    "book": "Essex Dogs (Essex Dogs Trilogy)",
+    "lookups": 1
+  },
+  {
+    "word": "pitchblende",
+    "pos": "noun",
+    "definition": "A black mineral consisting mainly of uranium oxide, the chief ore of uranium and radium.",
+    "origin": "Partial translation of German Pechblende, from Pech 'pitch' + Blende 'ore'",
+    "book": "Line War",
+    "lookups": 1
+  },
+  {
+    "word": "plebiscite",
+    "pos": "noun",
+    "definition": "The direct vote of all the members of an electorate on an important public question.",
+    "origin": "French plébiscite, from Latin plebiscitum, from plebs 'common people' + scitum 'decree', from sciscere 'to vote'",
+    "book": "The Battle for Spain: The Spanish Civil War, 1936-1939",
+    "lookups": 1
+  },
+  {
+    "word": "pluperfect",
+    "pos": "adjective/noun",
+    "definition": "(Grammar) denoting a tense of verbs expressing action completed prior to some past time (e.g. 'had gone').",
+    "origin": "Medieval Latin plus quam perfectum 'more than perfect', describing a past action completed even earlier",
+    "book": "The Unspoken Name",
+    "lookups": 1
+  },
+  {
+    "word": "polyglot",
+    "pos": "adjective/noun",
+    "definition": "Knowing or using several languages; a person who knows and uses several languages.",
+    "origin": "Greek polyglottos, from poly 'many' + glotta 'tongue, language'",
+    "book": "The Last Colony",
+    "lookups": 1
+  },
+  {
+    "word": "polymath",
+    "pos": "noun",
+    "definition": "A person of wide knowledge or learning across many different fields.",
+    "origin": "Greek polymathes 'having learned much', from poly 'many' + manthanein 'to learn'",
+    "book": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+    "lookups": 1
+  },
+  {
+    "word": "polysyllabic",
+    "pos": "adjective",
+    "definition": "Having more than one syllable; (of writing or speech) using long words.",
+    "origin": "Greek polysyllabos, from poly 'many' + syllabe 'syllable'",
+    "book": "Nineteen Eighty-Four",
+    "lookups": 1
+  },
+  {
+    "word": "pontificate",
+    "pos": "verb",
+    "definition": "To express one's opinions in a pompous and dogmatic way; to officiate as bishop or pope.",
+    "origin": "Latin pontificare 'to be a high priest', from pontifex 'pontiff', from pons 'bridge' + facere 'to make'",
+    "book": "The Way of Kings",
+    "lookups": 1
+  },
+  {
+    "word": "porphyry",
+    "pos": "noun",
+    "definition": "A hard ornamental rock containing crystals of feldspar in a groundmass; any igneous rock with large crystals in fine-grained matrix.",
+    "origin": "Greek porphyra 'purple dye', from its original purple colour",
+    "book": "Howling Dark (Sun Eater)",
+    "lookups": 1
+  },
+  {
+    "word": "potable",
+    "pos": "adjective/noun",
+    "definition": "Safe to drink; suitable for drinking; drinkable water.",
+    "origin": "Latin potabilis, from potare 'to drink'",
+    "book": "Project Hail Mary: A Novel",
+    "lookups": 1
+  },
+  {
+    "word": "precursor",
+    "pos": "noun",
+    "definition": "A person or thing that comes before another of the same kind; a substance from which another is formed.",
+    "origin": "Latin praecursor 'forerunner', from praecurrere 'to run before', from prae 'before' + currere 'to run'",
+    "book": "The Unspoken Name",
+    "lookups": 1
+  },
+  {
+    "word": "presumptuous",
+    "pos": "adjective",
+    "definition": "(Of a person or behaviour) failing to observe the limits of what is permitted; overstepping bounds.",
+    "origin": "Old French presumptueux, from Latin praesumptuosus, from praesumptio 'anticipation'",
+    "book": "The Wee Free Men",
+    "lookups": 1
+  },
+  {
+    "word": "prevarication",
+    "pos": "noun",
+    "definition": "The practice of speaking or acting evasively; deliberate avoidance of the truth; equivocation.",
+    "origin": "Latin praevaricari 'to straddle', from prae 'before' + varicare 'to straddle'",
+    "book": "The Anglo-Saxons: A History of the Beginnings of England: 400 – 1066",
+    "lookups": 1
+  },
+  {
+    "word": "primogeniture",
+    "pos": "noun",
+    "definition": "The right of succession belonging to the firstborn child; the system of inheritance by the eldest child.",
+    "origin": "Medieval Latin primogenitura, from Latin primo 'first' + genitura 'birth', from gignere 'to beget'",
+    "book": "New Contract (Perimeter Defense Book #3)",
+    "lookups": 1
+  },
+  {
+    "word": "primordial",
+    "pos": "adjective",
+    "definition": "Existing at or from the beginning of time; most ancient or primitive; fundamental and elementary.",
+    "origin": "Latin primordialis, from primordium 'origin', from primus 'first' + ordiri 'to begin'",
+    "book": "The Primal Hunter: A LitRPG Adventure",
+    "lookups": 3
+  },
+  {
+    "word": "prion",
+    "pos": "noun",
+    "definition": "A misfolded protein believed to cause a number of progressive neurodegenerative conditions such as BSE.",
+    "origin": "Portmanteau of proteinaceous + infectious + -on; coined by Stanley Prusiner in 1982",
+    "book": "Invisible Sun",
+    "lookups": 1
+  },
+  {
+    "word": "proboscis",
+    "pos": "noun",
+    "definition": "The nose of a mammal, especially when long and flexible; the elongated mouthpart of an insect.",
+    "origin": "Latin proboscis, from Greek proboskis, from pro 'before' + boskein 'to feed'",
+    "book": "Life Reset: Salvation (Life Reset - Neo Book 6)",
+    "lookups": 1
+  },
+  {
+    "word": "profundity",
+    "pos": "noun",
+    "definition": "Deep insight; great depth of knowledge, thought, or feeling; a very deep or abstruse idea.",
+    "origin": "Latin profunditas, from profundus 'deep', from pro- 'before' + fundus 'bottom'",
+    "book": "Defiance of the Fall 7",
+    "lookups": 1
+  },
+  {
+    "word": "progenitor",
+    "pos": "noun",
+    "definition": "A person or thing from which a person, animal, or plant is descended or originates; an ancestor.",
+    "origin": "Latin progenitor 'ancestor', from progignere 'to beget', from pro- 'before' + gignere 'to beget'",
+    "book": "The Primal Hunter 12: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "promontory",
+    "pos": "noun",
+    "definition": "A point of high land jutting out into the sea or a lake; a headland; a projecting ridge.",
+    "origin": "Latin promontorium, from pro- 'before' + mons 'mountain'",
+    "book": "Cato 16 - Day of the Caesars",
+    "lookups": 2
+  },
+  {
+    "word": "propitious",
+    "pos": "adjective",
+    "definition": "Giving or indicating a good chance of success; auspicious; favourably disposed towards someone.",
+    "origin": "Latin propitius 'well disposed, gracious', from pro- 'before' + petere 'to seek'",
+    "book": "The Battle for Spain: The Spanish Civil War, 1936-1939",
+    "lookups": 1
+  },
+  {
+    "word": "proselytize",
+    "pos": "verb",
+    "definition": "To convert or attempt to convert someone from one religion, belief, or opinion to another.",
+    "origin": "Greek proselutos 'stranger, convert', from proserchesthai 'to approach', from pros 'to' + erchesthai 'to come'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "prostrate",
+    "pos": "adjective/verb",
+    "definition": "Lying stretched out on the ground with one's face downwards; to throw oneself flat on the ground in submission.",
+    "origin": "Latin prostratus, past participle of prosternere 'to throw down', from pro- 'before' + sternere 'to lay flat'",
+    "book": "Dragon Heart: Sea of Sand. LitRPG Wuxia Series: Book 4",
+    "lookups": 1
+  },
+  {
+    "word": "protean",
+    "pos": "adjective",
+    "definition": "Tending or able to change frequently or easily; taking many different forms.",
+    "origin": "From Proteus, a Greek sea-god capable of changing his shape; from Greek Proteus, from protos 'first'",
+    "book": "Line War",
+    "lookups": 1
+  },
+  {
+    "word": "protracted",
+    "pos": "adjective",
+    "definition": "Lasting for a long time or longer than expected; prolonged; drawn-out.",
+    "origin": "Latin protractus, past participle of protrahere 'to drag out', from pro- 'forward' + trahere 'to drag'",
+    "book": "Polity Agent",
+    "lookups": 3
+  },
+  {
+    "word": "ptolemaic",
+    "pos": "adjective",
+    "definition": "Relating to the astronomer Ptolemy; of the geocentric model placing Earth at the centre of the universe.",
+    "origin": "From Claudius Ptolemaeus, 2nd-century Greco-Roman astronomer; from Greek Ptolemaios",
+    "book": "Powers and Thrones: A New History of the Middle Ages",
+    "lookups": 1
+  },
+  {
+    "word": "puerile",
+    "pos": "adjective",
+    "definition": "Childishly silly and trivial; immature and childish in a way that is foolish.",
+    "origin": "Latin puerilis, from puer 'boy, child'",
+    "book": "Turn the Ship Around!: A True Story of Turning Followers into Leaders",
+    "lookups": 1
+  },
+  {
+    "word": "puissant",
+    "pos": "adjective",
+    "definition": "(Archaic or poetic) Having great power or influence; mighty; potent.",
+    "origin": "Old French puissant 'powerful', from Vulgar Latin potentem, from Latin potere 'to be powerful'",
+    "book": "The Ruin of Kings (A Chorus of Dragons)",
+    "lookups": 1
+  },
+  {
+    "word": "pulchritudinous",
+    "pos": "adjective",
+    "definition": "Beautiful; having physical beauty and attractiveness.",
+    "origin": "Latin pulchritudo 'beauty', from pulcher 'beautiful'",
+    "book": "Devil in the Deep Blue Sea",
+    "lookups": 1
+  },
+  {
+    "word": "punitive",
+    "pos": "adjective",
+    "definition": "Inflicting or intended as punishment; (of a tax or other charge) extremely high.",
+    "origin": "Late Latin punitivus, from punire 'to punish', from poena 'penalty', from Greek poine",
+    "book": "The Anglo-Saxons: A History of the Beginnings of England: 400 – 1066",
+    "lookups": 2
+  },
+  {
+    "word": "pusillanimous",
+    "pos": "adjective",
+    "definition": "Showing a lack of courage or determination; timid and cowardly.",
+    "origin": "Latin pusillanimis, from pusillus 'very small' + animus 'mind, spirit'",
+    "book": "Life Reset: Salvation (Life Reset - Neo Book 6)",
+    "lookups": 1
+  },
+  {
+    "word": "quadruped",
+    "pos": "noun",
+    "definition": "An animal that walks on four feet, especially a mammal.",
+    "origin": "Latin quadrupes, from quadri- 'four' + pes 'foot'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "quinquagenarian",
+    "pos": "noun",
+    "definition": "A person who is between 50 and 59 years old.",
+    "origin": "Latin quinquagenarius, from quinquageni 'fifty each', from quinquaginta 'fifty'",
+    "book": "The Crusades Through Arab Eyes (Saqi Essentials)",
+    "lookups": 1
+  },
+  {
+    "word": "quinsy",
+    "pos": "noun",
+    "definition": "A peri-tonsillar abscess; a severe inflammation of the throat with difficulty swallowing.",
+    "origin": "Old French quinancie, from Greek kynanche 'dog-throttle', from kyon 'dog' + anchein 'to throttle'",
+    "book": "The Templars",
+    "lookups": 1
+  },
+  {
+    "word": "rakish",
+    "pos": "adjective",
+    "definition": "Having a dashing, slightly disreputable quality or appearance; (of a boat) with a streamlined, fast appearance.",
+    "origin": "From rake (a debauched person) + -ish; the nautical sense from a vessel's backward slope",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "raucous",
+    "pos": "adjective",
+    "definition": "Making or constituting a disturbingly harsh and loud noise; rough or hoarse in sound.",
+    "origin": "Latin raucus 'hoarse', of unknown ultimate origin",
+    "book": "The Pariah",
+    "lookups": 1
+  },
+  {
+    "word": "recidivist",
+    "pos": "noun",
+    "definition": "A person who repeatedly reoffends; a convicted criminal who relapses into criminal behaviour.",
+    "origin": "French récidiviste, from Latin recidivus 'falling back', from recidere, from re- 'back' + cadere 'to fall'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "reciprocate",
+    "pos": "verb",
+    "definition": "To respond to a gesture or action by making a corresponding one; to give or feel in return.",
+    "origin": "Latin reciprocare 'to move backwards and forwards', from reciprocus 'moving backwards and forwards'",
+    "book": "He Who Fights with Monsters 10: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "regolith",
+    "pos": "noun",
+    "definition": "The layer of loose, fragmented material covering solid rock, as found on the moon's surface or in soil.",
+    "origin": "Greek rhegos 'blanket' + lithos 'stone'; coined by American geologist Grove Karl Gilbert in 1893",
+    "book": "Delta-V",
+    "lookups": 2
+  },
+  {
+    "word": "reiterate",
+    "pos": "verb",
+    "definition": "To say something again or a number of times, typically for emphasis or clarity.",
+    "origin": "Latin reiterare 'to repeat', from re- 'again' + iterare 'to do a second time', from iterum 'again'",
+    "book": "Defiance of the Fall 11: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "remuneration",
+    "pos": "noun",
+    "definition": "Money paid for work or a service; payment; reward for services rendered.",
+    "origin": "Latin remuneratio, from remunerare 'to reward', from re- 'back' + munerare 'to give', from munus 'gift'",
+    "book": "Defiance of the Fall 4: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "repudiate",
+    "pos": "verb",
+    "definition": "To refuse to accept; to deny the truth or validity of; to disown or reject.",
+    "origin": "Latin repudiare 'to divorce, reject', from repudium 'separation, divorce'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "retrovirus",
+    "pos": "noun",
+    "definition": "A type of RNA virus (such as HIV) that inserts a DNA copy of its genome into the host cell.",
+    "origin": "Latin retro 'backwards' + virus; coined in 1970 when reverse transcription was discovered",
+    "book": "Disquiet Gods",
+    "lookups": 1
+  },
+  {
+    "word": "rhizome",
+    "pos": "noun",
+    "definition": "A continuously growing horizontal underground stem which puts out lateral shoots and roots.",
+    "origin": "Greek rhizoma 'mass of roots', from rhizoun 'to cause to take root', from rhiza 'root'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "rostrum",
+    "pos": "noun",
+    "definition": "A raised platform on which a person stands to make a public speech; the beak of a bird or insect.",
+    "origin": "Latin rostrum 'beak, ship's prow'; the Roman speakers' platform was decorated with ships' prows",
+    "book": "The 120 Days of Sodom",
+    "lookups": 2
+  },
+  {
+    "word": "sacristy",
+    "pos": "noun",
+    "definition": "A room in a church where a priest prepares for a service and where vestments and other things are kept.",
+    "origin": "Medieval Latin sacristia, from sacristanus 'sacristan', from sacer 'sacred'",
+    "book": "The 120 Days of Sodom",
+    "lookups": 1
+  },
+  {
+    "word": "sagacious",
+    "pos": "adjective",
+    "definition": "Having or showing keen mental discernment and good judgement; shrewd and wise.",
+    "origin": "Latin sagax 'keen-scented, shrewd', from sagire 'to perceive quickly'",
+    "book": "Roman Arena 1-5",
+    "lookups": 1
+  },
+  {
+    "word": "salacious",
+    "pos": "adjective",
+    "definition": "Having or conveying undue or indecent interest in sexual matters; lustful or lecherous.",
+    "origin": "Latin salax 'fond of leaping, lustful', from salire 'to leap'",
+    "book": "The Primal Hunter 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "sapphic",
+    "pos": "adjective",
+    "definition": "Relating to the ancient Greek poet Sappho; relating to lesbians or lesbianism.",
+    "origin": "From Sappho, a Greek lyric poet of Lesbos (c. 610–c. 570 BC), whose poetry expressed love for women",
+    "book": "Succubus 3 (The Good The Bad And The Crazy Stupid Hot): A LitRPG Series",
+    "lookups": 1
+  },
+  {
+    "word": "satrapy",
+    "pos": "noun",
+    "definition": "A province governed by a satrap in the ancient Persian empire; a region under foreign control.",
+    "origin": "Greek satrapes, from Old Persian khshathrapavan 'protector of the dominion'",
+    "book": "The Sea Watch",
+    "lookups": 1
+  },
+  {
+    "word": "savant",
+    "pos": "noun",
+    "definition": "A learned person, especially a distinguished scientist; a person with exceptional skill in a specific area.",
+    "origin": "French savant, present participle of savoir 'to know', from Latin sapere 'to be wise'",
+    "book": "World Nexus, The Grand Game, Book 3: A Dark Fantasy LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "savvy",
+    "pos": "noun/adjective",
+    "definition": "Shrewdness and practical knowledge; having practical knowledge and understanding.",
+    "origin": "Spanish sabe usted 'do you know', from saber 'to know', from Latin sapere 'to be wise'",
+    "book": "Backyard Dungeon 6",
+    "lookups": 1
+  },
+  {
+    "word": "scarab",
+    "pos": "noun",
+    "definition": "A large dung beetle regarded as sacred in ancient Egypt; an amulet or gem in the form of this beetle.",
+    "origin": "French scarabée, from Latin scarabaeus, from Greek skarabeios, probably of Semitic origin",
+    "book": "Dungeon Diving 201",
+    "lookups": 1
+  },
+  {
+    "word": "scathing",
+    "pos": "adjective",
+    "definition": "Witheringly scornful; severely critical; bitterly harsh in denunciation.",
+    "origin": "Old Norse skadhi 'harm, injury'; originally meaning 'injurious', now primarily 'verbally devastating'",
+    "book": "He Who Fights with Monsters 8: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "schadenfreude",
+    "pos": "noun",
+    "definition": "Pleasure derived from the misfortunes of others.",
+    "origin": "German Schadenfreude, from Schaden 'harm, damage' + Freude 'joy'",
+    "book": "Defiance of the Fall 5: A LitRPG Adventure",
+    "lookups": 3
+  },
+  {
+    "word": "scion",
+    "pos": "noun",
+    "definition": "A young shoot or twig of a plant, used in grafting; a descendant of a notable family.",
+    "origin": "Old French cion 'shoot, twig', from Frankish *kiþ 'bud, germ'",
+    "book": "Immortal Swordslinger 5",
+    "lookups": 2
+  },
+  {
+    "word": "sclera",
+    "pos": "noun",
+    "definition": "The white outer layer of the eyeball, continuous with the cornea at the front.",
+    "origin": "Greek skleros 'hard'; the tissue is so named for its tough, fibrous structure",
+    "book": "Asher, Neal - [Cormac 03]",
+    "lookups": 1
+  },
+  {
+    "word": "sclerotic",
+    "pos": "adjective",
+    "definition": "Relating to the sclera; becoming rigid and unresponsive through excessive development of one type of element.",
+    "origin": "Greek sklerotikos, from skleros 'hard'",
+    "book": "Night King 1",
+    "lookups": 1
+  },
+  {
+    "word": "secede",
+    "pos": "verb",
+    "definition": "To withdraw formally from membership of a federation or body, especially a political state.",
+    "origin": "Latin secedere 'to go apart', from se- 'apart' + cedere 'to go'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "senescence",
+    "pos": "noun",
+    "definition": "The condition or process of deterioration with age; loss of cells' ability to divide and grow.",
+    "origin": "Latin senescere 'to grow old', from senex 'old'",
+    "book": "Demon in White",
+    "lookups": 1
+  },
+  {
+    "word": "seneschal",
+    "pos": "noun",
+    "definition": "The steward or major-domo of a medieval great house; a governor of a city or fortress.",
+    "origin": "Old French seneschal, from medieval Latin siniscalcus, from Proto-Germanic meaning 'old servant'",
+    "book": "The Ruin of Kings (A Chorus of Dragons)",
+    "lookups": 2
+  },
+  {
+    "word": "sepulchre",
+    "pos": "noun",
+    "definition": "A small room or monument cut in rock or built of stone, in which a dead person is laid.",
+    "origin": "Latin sepulcrum, from sepelire 'to bury'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "sequela",
+    "pos": "noun",
+    "definition": "A condition which is the consequence of a previous disease or injury; an after-effect.",
+    "origin": "Latin sequela 'that which follows', from sequi 'to follow'",
+    "book": "Defiance of the Fall 12: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "sequestered",
+    "pos": "adjective",
+    "definition": "Isolated and hidden away; kept apart from others; legally removed from someone's possession.",
+    "origin": "Latin sequestrare 'to place in safe keeping', from sequester 'trustee, mediator'",
+    "book": "The Path of Ascension 5: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "seraglio",
+    "pos": "noun",
+    "definition": "The women's apartments in an Ottoman palace; a harem; a place of seclusion for women.",
+    "origin": "Italian serraglio, from Turkish saray 'palace', from Persian sarai 'mansion, inn'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "seraph",
+    "pos": "noun",
+    "definition": "An angelic being of the highest order; one of the divine beings attendant upon God in Isaiah's vision.",
+    "origin": "Hebrew seraph, plural seraphim 'fiery, winged being', possibly from saraph 'to burn'",
+    "book": "Resurrection (The Stork Tower Book 7)",
+    "lookups": 1
+  },
+  {
+    "word": "serendipitous",
+    "pos": "adjective",
+    "definition": "Occurring or discovered by chance in a happy or beneficial way; unexpectedly fortunate.",
+    "origin": "Coined by Horace Walpole (1754) from Serendip, an old name for Sri Lanka, from a Persian fairy tale",
+    "book": "Mark of the Fool 6: A Progression Fantasy Epic",
+    "lookups": 1
+  },
+  {
+    "word": "sexton",
+    "pos": "noun",
+    "definition": "A person who looks after a church and churchyard, sometimes acting as a bell-ringer and gravedigger.",
+    "origin": "Medieval Latin sacristanus 'sacristan', from sacer 'sacred'; contracted over time to sexton",
+    "book": "Creation Mage 9",
+    "lookups": 1
+  },
+  {
+    "word": "shibboleth",
+    "pos": "noun",
+    "definition": "A custom, principle, or belief distinguishing a particular class or group; a phrase used to test belonging.",
+    "origin": "Hebrew shibboleth 'ear of wheat' or 'flowing stream'; used in Judges 12:6 as a password revealing origin",
+    "book": "He Who Fights with Monsters 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "simile",
+    "pos": "noun",
+    "definition": "A figure of speech in which one thing is compared to another, using 'like' or 'as'.",
+    "origin": "Latin simile 'like thing', neuter of similis 'like'",
+    "book": "The Traitor Queen (The Bridge Kingdom Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "sinecure",
+    "pos": "noun",
+    "definition": "A position requiring little or no work but giving the holder status or financial benefit.",
+    "origin": "Latin sine cura 'without care', from sine 'without' + cura 'care'",
+    "book": "Dark State--A Novel of the Merchant Princes Multiverse",
+    "lookups": 2
+  },
+  {
+    "word": "smattering",
+    "pos": "noun",
+    "definition": "A small or superficial amount of knowledge of a subject; a small number or quantity.",
+    "origin": "Of unknown origin; possibly from smatter 'to babble', of Scandinavian origin",
+    "book": "Resurrection (The Stork Tower Book 7)",
+    "lookups": 1
+  },
+  {
+    "word": "sodden",
+    "pos": "adjective",
+    "definition": "Saturated with liquid, especially water; drenched; (of a person) stupefied with drink.",
+    "origin": "Old English soden, past participle of seothan 'to seethe, boil'",
+    "book": "The Way of Kings",
+    "lookups": 1
+  },
+  {
+    "word": "sojourner",
+    "pos": "noun",
+    "definition": "A person who resides temporarily in a place; one who stays for a time in a foreign land.",
+    "origin": "Old French sojorner, from Latin sub- 'under, during' + diurnus 'of a day'",
+    "book": "Empire of Silence",
+    "lookups": 1
+  },
+  {
+    "word": "solipsism",
+    "pos": "noun",
+    "definition": "The view or theory that the self is all that can be known to exist; extreme self-centredness.",
+    "origin": "Latin solus 'alone' + ipse 'self' + -ism; coined in philosophical usage in the 19th century",
+    "book": "Nineteen Eighty-Four",
+    "lookups": 1
+  },
+  {
+    "word": "somnolent",
+    "pos": "adjective",
+    "definition": "Sleepy; drowsy; causing sleepiness; inducing a feeling of drowsiness.",
+    "origin": "Latin somnolentus, from somnus 'sleep'",
+    "book": "Polity Agent",
+    "lookups": 1
+  },
+  {
+    "word": "soporific",
+    "pos": "adjective/noun",
+    "definition": "Tending to induce drowsiness or sleep; a drug or other agent that induces sleep.",
+    "origin": "Latin sopor 'deep sleep' + -fic (from facere 'to make')",
+    "book": "He Who Fights with Monsters 8: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "sortie",
+    "pos": "noun",
+    "definition": "An attack by troops coming out from a position of defence; a flight by a single military aircraft.",
+    "origin": "French sortie 'a going out', from sortir 'to go out', of uncertain origin",
+    "book": "We Hunt Monsters 3",
+    "lookups": 1
+  },
+  {
+    "word": "specious",
+    "pos": "adjective",
+    "definition": "Superficially plausible but actually wrong; misleading in appearance; apparently correct but actually deceptive.",
+    "origin": "Latin speciosus 'good-looking', from species 'appearance', from specere 'to look'",
+    "book": "Gridlinked",
+    "lookups": 1
+  },
+  {
+    "word": "spelunking",
+    "pos": "noun",
+    "definition": "The exploration of caves as a hobby; caving.",
+    "origin": "Latin spelunca 'cave', from Greek spelynx; the term was coined in the mid-20th century in American English",
+    "book": "Life Reset: Salvation (Life Reset - Neo Book 6)",
+    "lookups": 1
+  },
+  {
+    "word": "sputum",
+    "pos": "noun",
+    "definition": "A mixture of saliva and mucus coughed up from the respiratory tract.",
+    "origin": "Latin sputum, from spuere 'to spit'",
+    "book": "Empire of Silence",
+    "lookups": 1
+  },
+  {
+    "word": "stagflation",
+    "pos": "noun",
+    "definition": "Persistent high inflation combined with high unemployment and stagnant demand in an economy.",
+    "origin": "Blend of stagnation + inflation; coined in British parliament by Iain Macleod in 1965",
+    "book": "Chip War: The Fight for the World's Most Critical Technology",
+    "lookups": 1
+  },
+  {
+    "word": "stele",
+    "pos": "noun",
+    "definition": "An upright stone slab or column typically bearing a commemorative inscription or relief design.",
+    "origin": "Greek stele 'standing block', from stellein 'to set up'",
+    "book": "Dragon Heart: Land of The Enemy. LitRPG Wuxia Series: Book 8",
+    "lookups": 1
+  },
+  {
+    "word": "sternum",
+    "pos": "noun",
+    "definition": "The breastbone; the long flat bone in the centre of the chest to which the ribs are attached.",
+    "origin": "Modern Latin, from Greek sternon 'chest'",
+    "book": "Defiance of the Fall 8: A LitRPG Adventure",
+    "lookups": 2
+  },
+  {
+    "word": "stoichiometry",
+    "pos": "noun",
+    "definition": "The relationship between the relative quantities of substances in a reaction; calculation of these quantities.",
+    "origin": "Greek stoikheion 'element' + metria 'measurement'",
+    "book": "Dark State--A Novel of the Merchant Princes Multiverse",
+    "lookups": 1
+  },
+  {
+    "word": "stygian",
+    "pos": "adjective",
+    "definition": "Relating to the river Styx in Hades; very dark, gloomy, and forbidding.",
+    "origin": "Latin Stygius, from Greek Stygios, from Styx, the river of Hades; from stygein 'to hate'",
+    "book": "Shadowcroft Academy For Dungeons: Year Two",
+    "lookups": 1
+  },
+  {
+    "word": "subaltern",
+    "pos": "noun/adjective",
+    "definition": "An officer in the British army below the rank of captain; of lower status or rank.",
+    "origin": "Late Latin subalternus, from sub 'under' + alternus 'alternate', from alter 'other'",
+    "book": "The 120 Days of Sodom",
+    "lookups": 1
+  },
+  {
+    "word": "subjunctive",
+    "pos": "noun/adjective",
+    "definition": "(Grammar) a mood used to express what is imagined, wished, or possible (e.g. 'if I were you').",
+    "origin": "Latin subiunctivus, from subiungere 'to subjoin', from sub- 'under' + iungere 'to join'",
+    "book": "The Unspoken Name",
+    "lookups": 1
+  },
+  {
+    "word": "sublime",
+    "pos": "adjective",
+    "definition": "Of such excellence, grandeur, or beauty as to inspire great admiration; elevated and supreme.",
+    "origin": "Latin sublimis 'lofty, high', from sub 'up to' + limen 'lintel'",
+    "book": "Polity Agent",
+    "lookups": 1
+  },
+  {
+    "word": "subsistence",
+    "pos": "noun",
+    "definition": "The action or fact of maintaining or supporting oneself at a minimum level; a bare means of survival.",
+    "origin": "Latin subsistere 'to stand firm', from sub- 'under, up to' + sistere 'to stand'",
+    "book": "Chip War: The Fight for the World's Most Critical Technology",
+    "lookups": 2
+  },
+  {
+    "word": "subsumption",
+    "pos": "noun",
+    "definition": "The action of including or absorbing something in something else; the act of subsuming.",
+    "origin": "Medieval Latin subsumptio, from subsumere 'to take under', from sub 'under' + sumere 'to take'",
+    "book": "Gridlinked",
+    "lookups": 1
+  },
+  {
+    "word": "sundry",
+    "pos": "adjective",
+    "definition": "Of various kinds; several; more than one.",
+    "origin": "Old English syndrig 'distinct, separate', of Germanic origin",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "supercilious",
+    "pos": "adjective",
+    "definition": "Behaving or looking as though one thinks one is superior to others; arrogantly contemptuous.",
+    "origin": "Latin superciliosus 'haughty', from supercilium 'eyebrow, pride', from super 'above' + cilium 'eyelid'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "superfluous",
+    "pos": "adjective",
+    "definition": "Unnecessary, especially through being more than enough; exceeding what is needed.",
+    "origin": "Latin superfluus, from superfluere 'to overflow', from super 'above' + fluere 'to flow'",
+    "book": "He Who Fights with Monsters 5: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "susurrus",
+    "pos": "noun",
+    "definition": "Whispering, murmuring, or rustling; a soft, indistinct sound.",
+    "origin": "Latin susurrus 'a whisper, murmur', from susurrare 'to whisper, hum'",
+    "book": "The Wee Free Men",
+    "lookups": 1
+  },
+  {
+    "word": "suzerain",
+    "pos": "noun",
+    "definition": "A sovereign or state having some control over another state that is internally autonomous.",
+    "origin": "French suzerain, from sus 'above' (from Latin sursum 'above') + -ain suffix (on the model of souverain)",
+    "book": "A Game With No Rules (Perimeter Defense Book #4) LitRPG Series",
+    "lookups": 1
+  },
+  {
+    "word": "sycophant",
+    "pos": "noun",
+    "definition": "A person who acts obsequiously towards someone important in order to gain advantage; a flatterer.",
+    "origin": "Greek sykophantes 'informer', from sykon 'fig' + phainein 'to show'; original meaning debated",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "synod",
+    "pos": "noun",
+    "definition": "An assembly of clergy and sometimes laity in a Christian church; a formal meeting of a church council.",
+    "origin": "Latin synodus, from Greek synodos 'meeting', from syn 'together' + hodos 'way'",
+    "book": "Demon in White",
+    "lookups": 1
+  },
+  {
+    "word": "tachyon",
+    "pos": "noun",
+    "definition": "A hypothetical particle that always moves faster than light, predicted by some theories in physics.",
+    "origin": "Greek takhys 'swift' + -on particle suffix; coined by physicist Gerald Feinberg in 1967",
+    "book": "Old Man's War",
+    "lookups": 1
+  },
+  {
+    "word": "tacit",
+    "pos": "adjective",
+    "definition": "Understood or implied without being stated; not explicit; silent.",
+    "origin": "Latin tacitus 'silent', past participle of tacere 'to be silent'",
+    "book": "Defiance of the Fall 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "tanzanite",
+    "pos": "noun",
+    "definition": "A blue or violet precious stone found only in Tanzania, a variety of zoisite.",
+    "origin": "Named after Tanzania, where it was first found in 1967; introduced to market by Tiffany & Co.",
+    "book": "Odyssey (The Stork Tower Book 2)",
+    "lookups": 1
+  },
+  {
+    "word": "tarn",
+    "pos": "noun",
+    "definition": "A small mountain lake; a pool formed in a cirque carved by a glacier.",
+    "origin": "Old Norse tjörn 'small lake', of Germanic origin",
+    "book": "Viking Wrath",
+    "lookups": 1
+  },
+  {
+    "word": "tartarus",
+    "pos": "noun",
+    "definition": "In Greek mythology, the deep abyss used as a dungeon for the Titans and later for the wicked dead.",
+    "origin": "Greek Tartaros, a primordial deity of the underworld; possibly of pre-Greek origin",
+    "book": "He Who Fights With Monsters 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "temerity",
+    "pos": "noun",
+    "definition": "Excessive confidence or boldness; audacity; foolhardy disregard for danger.",
+    "origin": "Latin temeritas 'rashness', from temere 'rashly, by chance'",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "tenacious",
+    "pos": "adjective",
+    "definition": "Tending to keep a firm hold; persistent; not easily dispelled or discouraged.",
+    "origin": "Latin tenax, tenacis 'holding fast', from tenere 'to hold'",
+    "book": "We Hunt Monsters 7",
+    "lookups": 1
+  },
+  {
+    "word": "tenement",
+    "pos": "noun",
+    "definition": "A room or set of rooms forming a separate residence in a house or block of flats; a run-down apartment building.",
+    "origin": "Latin tenementum 'feudal holding', from tenere 'to hold'",
+    "book": "Windwitch",
+    "lookups": 1
+  },
+  {
+    "word": "tenet",
+    "pos": "noun",
+    "definition": "A principle or belief, especially one held by a group or organisation.",
+    "origin": "Latin tenere 'he holds', third person singular present of tenere 'to hold'; used in school exercises",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "termagant",
+    "pos": "noun/adjective",
+    "definition": "A harsh-tempered or overbearing woman; a shrewish, scolding woman.",
+    "origin": "From Tervagant, a deity once supposed to be worshipped by Muslims, depicted in mystery plays as a shrewish bully",
+    "book": "Triumph",
+    "lookups": 1
+  },
+  {
+    "word": "thaumaturge",
+    "pos": "noun",
+    "definition": "A person who is said to be able to perform miracles; a wonder-worker.",
+    "origin": "Greek thaumatourgos, from thauma 'wonder' + ergon 'work'",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "theodolite",
+    "pos": "noun",
+    "definition": "A surveying instrument with a rotating telescope for measuring horizontal and vertical angles.",
+    "origin": "Origin uncertain; coined by English mathematician Leonard Digges in 1571, possibly from Greek roots",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "theosophy",
+    "pos": "noun",
+    "definition": "Any of a number of philosophies claiming divine inspiration or a special insight into divine nature.",
+    "origin": "Greek theosophia 'wisdom concerning God', from theos 'god' + sophia 'wisdom'",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "thespian",
+    "pos": "noun/adjective",
+    "definition": "An actor; of or relating to drama and theatre.",
+    "origin": "From Thespis, a Greek poet of the 6th century BC traditionally regarded as the founder of drama",
+    "book": "Empire Games Series, Book 1",
+    "lookups": 2
+  },
+  {
+    "word": "tithe",
+    "pos": "noun/verb",
+    "definition": "One tenth of annual produce or earnings, formerly taken as a tax for the Church; to pay or levy a tithe on.",
+    "origin": "Old English teotha 'tenth', from tien 'ten'",
+    "book": "Stone Will",
+    "lookups": 1
+  },
+  {
+    "word": "topiary",
+    "pos": "noun",
+    "definition": "The art or practice of clipping shrubs or trees into ornamental shapes.",
+    "origin": "Latin topiarius 'landscape gardener', from topia 'landscape gardening', from Greek topos 'place'",
+    "book": "Revolution Business",
+    "lookups": 1
+  },
+  {
+    "word": "torpor",
+    "pos": "noun",
+    "definition": "A state of physical or mental inactivity; lethargy; a period of dormancy in an animal.",
+    "origin": "Latin torpor 'numbness', from torpere 'to be numb or sluggish'",
+    "book": "Mark of the Fool 6: A Progression Fantasy Epic",
+    "lookups": 2
+  },
+  {
+    "word": "totalitarianism",
+    "pos": "noun",
+    "definition": "A system of government that is centralised and dictatorial, requiring complete subservience to the state.",
+    "origin": "Italian totalitario, from totalità 'totality'; coined in the 1920s to describe fascist regimes",
+    "book": "Nineteen Eighty-Four",
+    "lookups": 1
+  },
+  {
+    "word": "tourmaline",
+    "pos": "noun",
+    "definition": "A brittle grey or black mineral found in granite and similar rocks, used as a gemstone.",
+    "origin": "French tourmaline, from Sinhalese toramalli 'carnelian', of Tamil origin",
+    "book": "Gilded Serpent",
+    "lookups": 1
+  },
+  {
+    "word": "transubstantiation",
+    "pos": "noun",
+    "definition": "The doctrine in Roman Catholicism that the bread and wine become the body and blood of Christ.",
+    "origin": "Medieval Latin transubstantiatio, from trans- 'across' + substantia 'substance'",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "triage",
+    "pos": "noun",
+    "definition": "The assignment of degrees of urgency to wounds or illnesses to decide treatment priority.",
+    "origin": "French triage, from trier 'to separate out', from Old French, from Latin terere 'to rub'",
+    "book": "The Memory of Souls",
+    "lookups": 1
+  },
+  {
+    "word": "triune",
+    "pos": "adjective",
+    "definition": "Being three in one; consisting of three in one (used of the Trinity in Christian theology).",
+    "origin": "Latin triunus, from tri- 'three' + unus 'one'",
+    "book": "He Who Fights with Monsters 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "ubiquitous",
+    "pos": "adjective",
+    "definition": "Present, appearing, or found everywhere; seeming to be everywhere at the same time.",
+    "origin": "Latin ubique 'everywhere', from ubi 'where' + -que 'and, also'",
+    "book": "Saints of Salvation (9781760983918)",
+    "lookups": 1
+  },
+  {
+    "word": "umbra",
+    "pos": "noun",
+    "definition": "The fully shaded inner region of a shadow; the dark central part of a sunspot.",
+    "origin": "Latin umbra 'shadow'",
+    "book": "Devil in the Deep Blue Sea",
+    "lookups": 1
+  },
+  {
+    "word": "umbrage",
+    "pos": "noun",
+    "definition": "Offence or annoyance, especially the feeling of being treated contemptuously; a sense of slight.",
+    "origin": "Old French ombrage 'shade, shadow', from Latin umbra 'shadow'",
+    "book": "Powers and Thrones: A New History of the Middle Ages",
+    "lookups": 1
+  },
+  {
+    "word": "undine",
+    "pos": "noun",
+    "definition": "An elemental water spirit; a female water spirit in Renaissance and alchemical tradition.",
+    "origin": "Modern Latin undina, coined by Paracelsus from Latin unda 'wave'",
+    "book": "Succubus 3 (The Good The Bad And The Crazy Stupid Hot): A LitRPG Series",
+    "lookups": 1
+  },
+  {
+    "word": "unfilial",
+    "pos": "adjective",
+    "definition": "Not befitting a son or daughter; not showing the duties or affection owed to a parent.",
+    "origin": "Latin un- 'not' + filialis 'relating to a son or daughter', from filius/filia 'son/daughter'",
+    "book": "Defiance of the Fall 3: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "ursine",
+    "pos": "adjective",
+    "definition": "Relating to or resembling bears; bear-like.",
+    "origin": "Latin ursinus, from ursus 'bear'",
+    "book": "Sorcery of a Queen",
+    "lookups": 1
+  },
+  {
+    "word": "usurper",
+    "pos": "noun",
+    "definition": "A person who takes a position of power or importance illegally or by force.",
+    "origin": "Old French usurpateur, from Latin usurpare 'to seize for use', from usus 'use' + rapere 'to seize'",
+    "book": "Mark of the Fool 4: A Progression Fantasy Epic",
+    "lookups": 1
+  },
+  {
+    "word": "usury",
+    "pos": "noun",
+    "definition": "The practice of lending money at unreasonably high rates of interest; excessive interest.",
+    "origin": "Medieval Latin usuria, from Latin usura 'use of money lent, interest', from usus 'a use'",
+    "book": "Dark Shores",
+    "lookups": 1
+  },
+  {
+    "word": "vagrant",
+    "pos": "noun/adjective",
+    "definition": "A person without a settled home or regular work; wandering without a fixed destination.",
+    "origin": "Old French wacrant 'wandering', present participle of wacrer, from Frankish *wankrōn 'to wander'",
+    "book": "He Who Fights with Monsters: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "valet",
+    "pos": "noun",
+    "definition": "A man's personal male attendant; a hotel employee who parks cars or delivers clothing.",
+    "origin": "French valet, from Old French vaslet 'young nobleman', related to vassal",
+    "book": "The 120 Days of Sodom",
+    "lookups": 1
+  },
+  {
+    "word": "vanguard",
+    "pos": "noun",
+    "definition": "A group of people leading the way in new developments; the foremost part of an army.",
+    "origin": "Old French avantgarde, from avant 'before' + garde 'guard'",
+    "book": "Defiance of the Fall 4: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "varicose",
+    "pos": "adjective",
+    "definition": "(Of a vein) permanently dilated and swollen, typically in the leg.",
+    "origin": "Latin varicosus, from varix 'dilated vein', from varus 'bent, crooked'",
+    "book": "Nineteen Eighty-Four",
+    "lookups": 1
+  },
+  {
+    "word": "veneer",
+    "pos": "noun",
+    "definition": "A thin decorative covering of fine wood; a deceptive outward appearance of good quality.",
+    "origin": "German Furnier, from furnieren 'to veneer', from French fournir 'to furnish'",
+    "book": "The Pariah",
+    "lookups": 1
+  },
+  {
+    "word": "venerate",
+    "pos": "verb",
+    "definition": "To regard with great respect and reverence; to revere.",
+    "origin": "Latin venerari 'to adore, revere', from Venus 'goddess of love'",
+    "book": "He Who Fights with Monsters 6: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "verdant",
+    "pos": "adjective",
+    "definition": "(Of countryside) green with grass or other rich vegetation; lush and flourishing.",
+    "origin": "Old French verd 'green', from Latin viridis 'green, fresh', from virere 'to be green'",
+    "book": "Mayor of Elf Town 2",
+    "lookups": 2
+  },
+  {
+    "word": "verdigris",
+    "pos": "noun",
+    "definition": "A bright bluish-green deposit formed on copper, brass, or bronze surfaces by atmospheric oxidation.",
+    "origin": "Old French verte grez 'green of Greece', from vert 'green' + grez 'Greek'",
+    "book": "Glacier's Edge",
+    "lookups": 2
+  },
+  {
+    "word": "vexation",
+    "pos": "noun",
+    "definition": "The state of being annoyed, frustrated, or worried; something that causes such a state.",
+    "origin": "Latin vexatio, from vexare 'to shake, disturb, irritate'",
+    "book": "Lich Hunt: Liches Get Stitches Book 4",
+    "lookups": 1
+  },
+  {
+    "word": "victuals",
+    "pos": "noun",
+    "definition": "Food and drink; provisions or supplies, especially for a journey or voyage.",
+    "origin": "Old French vitaille, from Latin victualia 'provisions', from victus 'food', from vivere 'to live'",
+    "book": "Salute the Dark",
+    "lookups": 1
+  },
+  {
+    "word": "vitriol",
+    "pos": "noun",
+    "definition": "Sulphuric acid or its compounds; cruel and bitter criticism; savage denunciation.",
+    "origin": "Old French vitriol, from medieval Latin vitriolum, from Latin vitreus 'of glass', from vitrum 'glass'",
+    "book": "System Interference: A LitRPG Adventure (System Universe Book 5)",
+    "lookups": 1
+  },
+  {
+    "word": "vivisection",
+    "pos": "noun",
+    "definition": "The practice of performing experiments on live animals for scientific research.",
+    "origin": "Latin vivus 'living' + sectio 'a cutting', from secare 'to cut'",
+    "book": "Mark of the Fool 7: A Progression Fantasy Epic",
+    "lookups": 1
+  },
+  {
+    "word": "vizier",
+    "pos": "noun",
+    "definition": "A high official in some Muslim countries, especially a minister of state under the Ottoman Empire.",
+    "origin": "Turkish vezir, from Arabic wazir 'porter, minister of state', from wazara 'to bear a burden'",
+    "book": "The Templars",
+    "lookups": 1
+  },
+  {
+    "word": "vomitorium",
+    "pos": "noun",
+    "definition": "A passage or opening in an ancient amphitheatre or theatre through which crowds can exit rapidly.",
+    "origin": "Latin vomitorium, from vomere 'to discharge'; the passages 'spew' crowds out",
+    "book": "",
+    "lookups": 1
+  },
+  {
+    "word": "wahhabi",
+    "pos": "noun",
+    "definition": "A member of a strict Muslim sect founded in Arabia in the 18th century, practising conservative Islam.",
+    "origin": "From Muhammad ibn Abd al-Wahhab (1703–1792), the Arabian founder of the movement",
+    "book": "The Fuller Memorandum",
+    "lookups": 1
+  },
+  {
+    "word": "wainscoting",
+    "pos": "noun",
+    "definition": "Wooden panelling lining the lower part of the walls of a room; the timber used for this purpose.",
+    "origin": "From Dutch or Low German wagenschot 'oak panelling', possibly from wagen 'wagon' + schot 'partition'",
+    "book": "Mona Lisa Overdrive",
+    "lookups": 1
+  },
+  {
+    "word": "wakizashi",
+    "pos": "noun",
+    "definition": "A Japanese sword shorter than a katana, traditionally worn together with a katana by samurai.",
+    "origin": "Japanese wakizashi, from waki 'side' + zashi 'wearing at the side'",
+    "book": "Discount Dan: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "wanderlust",
+    "pos": "noun",
+    "definition": "A strong desire to travel and explore the world.",
+    "origin": "German Wanderlust, from wandern 'to hike, roam' + Lust 'desire, pleasure'",
+    "book": "Rise of the Weakest Summoner: Volume IX",
+    "lookups": 1
+  },
+  {
+    "word": "whitsun",
+    "pos": "noun",
+    "definition": "The weekend or week including Whit Sunday (the seventh Sunday after Easter); Whitsuntide.",
+    "origin": "Old English Hwita Sunnandæg 'White Sunday', possibly from the white garments worn by the newly baptised",
+    "book": "Summer of Blood: The Peasants’ Revolt of 1381",
+    "lookups": 1
+  },
+  {
+    "word": "woolgathering",
+    "pos": "noun",
+    "definition": "Indulgence in aimless or absent-minded daydreaming; failing to pay attention to what is happening.",
+    "origin": "From the practice of collecting tufts of wool caught on bushes, seen as purposeless wandering",
+    "book": "Demon in White",
+    "lookups": 1
+  },
+  {
+    "word": "xenophobe",
+    "pos": "noun",
+    "definition": "A person having or showing a dislike of or prejudice against people from other countries.",
+    "origin": "Greek xenos 'stranger, foreigner' + phobos 'fear'",
+    "book": "Use of Weapons",
+    "lookups": 1
+  },
+  {
+    "word": "xeric",
+    "pos": "adjective",
+    "definition": "(Of an environment or habitat) having extremely dry conditions; adapted to dry conditions.",
+    "origin": "Greek xeros 'dry' + -ic suffix",
+    "book": "Defiance of the Fall 12: A LitRPG Adventure",
+    "lookups": 1
+  },
+  {
+    "word": "yokel",
+    "pos": "noun",
+    "definition": "An uneducated and unsophisticated person from the countryside; a country bumpkin.",
+    "origin": "Origin uncertain; possibly from a dialect word for a green woodpecker, an English dialect word yockel",
+    "book": "Mark of the Fool 2",
+    "lookups": 1
+  },
+  {
+    "word": "zealotry",
+    "pos": "noun",
+    "definition": "The quality of being fanatically committed to a cause; excessive or extreme zeal.",
+    "origin": "Greek zelotes 'emulator, zealot', from zeloun 'to be jealous', from zelos 'zeal'",
+    "book": "Saints of Salvation (9781760983918)",
+    "lookups": 1
+  },
+  {
+    "word": "ziggurat",
+    "pos": "noun",
+    "definition": "A rectangular stepped tower built in ancient Mesopotamia, surmounted by a temple.",
+    "origin": "Assyrian ziqqurratu 'peak, pinnacle', from zaqaru 'to be high'",
+    "book": "Succubus 3 (The Good The Bad And The Crazy Stupid Hot): A LitRPG Series",
+    "lookups": 1
+  },
+  {
+    "word": "zygote",
+    "pos": "noun",
+    "definition": "A diploid cell resulting from the fusion of two haploid gametes; a fertilised egg cell.",
+    "origin": "Greek zygotos 'yoked', from zygoun 'to join together', from zygon 'yoke'",
+    "book": "The Ghost Brigades",
+    "lookups": 1
+  }
+]
