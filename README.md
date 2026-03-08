@@ -1,5 +1,5 @@
 # WRIT — A Kindle Vocab Game
-
+![Header Image](https://github.com/DrWize/WRIT/blob/main/writHeader.png)
 > *Win Rounds, Improve Thinking*
 
 A single-file browser game that turns your Kindle lookup history into a vocabulary drill. No server, no install, no account — open `index.html` and play.
